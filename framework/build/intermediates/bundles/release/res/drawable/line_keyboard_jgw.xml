@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/keyboard_item_jgw" />
+
+    <size
+        android:width="1000dp"
+        android:height="3dp" />
+</shape>

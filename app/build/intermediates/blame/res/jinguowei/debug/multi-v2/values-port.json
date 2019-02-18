@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\project\\Robot\\app\\build\\intermediates\\incremental\\mergeJinguoweiDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+    <TextView
+        android:id="@+id/tv_translation_c"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/text_size_20"
+        android:textSize="@dimen/text_size_22"
+        android:gravity="center"
+        style="@style/text_white_style"  />
+    <TextView
+        android:id="@+id/tv_translation_e"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/text_size_20"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_22"
+        android:layout_below="@+id/tv_translation_c"
+        style="@style/text_white_style"  />
+
+    <Button
+        android:id="@+id/iv_hold_down_speak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/icon_btn_translation" />
+
+    <TextView
+        style="@style/text_white_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/iv_hold_down_speak"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/text_size_5"
+        android:text="@string/hold_down_speak_chinese"
+        android:textSize="@dimen/text_size_22" />
+
+    <ImageView
+        android:id="@+id/iv_voice_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/text_size_5"
+        android:layout_marginLeft="@dimen/text_size_15"
+        android:visibility="gone"
+        android:layout_toRightOf="@+id/iv_hold_down_speak"
+        android:background="@drawable/icon_voice_right_1" />
+
+
+    <ImageView
+        android:id="@+id/iv_voice_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/text_size_5"
+        android:layout_marginRight="@dimen/text_size_15"
+        android:visibility="gone"
+        android:layout_toLeftOf="@+id/iv_hold_down_speak"
+        android:background="@drawable/icon_voice_left_1" />
+</RelativeLayout>

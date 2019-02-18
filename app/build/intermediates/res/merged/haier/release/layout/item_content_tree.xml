@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rl_content_icon"
+            android:layout_width="@dimen/text_size_100"
+            android:layout_height="@dimen/text_size_100"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/text_size_10"
+            android:background="@drawable/deletethebox"
+            android:padding="@dimen/text_size_3">
+
+            <ImageView
+                android:id="@+id/iv_content_icon"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </RelativeLayout>
+
+
+        <com.hamitao.framework.widgets.MarqueTextView
+            android:id="@+id/tv_content_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rl_content_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/text_size_3"
+            android:gravity="center"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_18" />
+
+    </RelativeLayout>
+</RelativeLayout>

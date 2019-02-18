@@ -1,0 +1,129 @@
+#- 编辑须知 -＃
+# "phone", "wechat", "other", "router", "callin", "setting", "change" 结点会使用本地置信度优先的策略，其它结点如"navi"会以云端结果优先
+# 请在放置命令词前三思，是否考虑尽可能都信赖云端？
+
+#歌曲数据源,需要填充
+$MUSICS = 等你等的我心痛|遥远的她|星晴|李香兰;
+
+#联系人数据源
+$CONTACTS = 王强|明证;
+
+#微信联系人数据源
+$WC_CONTACTS = 艾加小星星|观音佛祖|hobson|云上闲|乐驾饭桶群|周末high翻天|德玛西亚;
+
+#城市列表
+$CITYS = 苏州|上海|深圳|厦门|济南|大连|武汉|宜昌;
+
+#类型列表
+$TYPES = (工作|单位|公司|办公|家庭|座机|手机|办公室|联通|移动|电信);
+
+#号码数据源
+$DIGIT = (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0);
+$NUMBER_SHORT = ( (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0) <$DIGIT >/min=2,max=11/ ); 
+
+#限制更加严格的电话号码
+$MEDIA_NUM_PREFIX = ( 1 ( 3 0 |3 1|3 2|5 5|5 6|4 5|8 5|8 6|7 6|3 4|3 5|3 6|3 7|3 8|3 9|5 0|5 1|5 2|5 7|5 8|5 9|8 2|8 3|8 4|8 7|8 8|4 7|7 8|7 0|3 3|5 3|8 0|8 1|8 9|7 7) );
+$MEDIA_NUM_SUBFIX = <$DIGIT >/min=4,max=4/;
+$MEDIA_NUM4 = ($MEDIA_NUM_PREFIX) <$DIGIT >/min=8,max=8/;
+$MEDIA_NUM5 = ( 1 1 0  | 1 1 2| 1 1 4 | 1 1 9 |1 2 0  | 1 2 1 | 9 1 1 | 1 0 0 8 6 | 1 0 0 1 0 | 1 0 0 0 0);
+$MEDIA_NUM6 = ( 6 (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ) <$DIGIT >/min=1,max=4/ );
+$MEDIA_NUM7 = ($MEDIA_NUM_PREFIX) (开头|开始);
+$MEDIA_NUM8 = (开头|开始)[是|为] ($MEDIA_NUM_PREFIX);
+$MEDIA_NUM9 = ($MEDIA_NUM_SUBFIX) (结尾|结束);
+$MEDIA_NUM10 = (结尾|结束|尾号)[是|为] ($MEDIA_NUM_SUBFIX);
+# 删除对集团号码, 短号的支持
+#$NUMBERS = ($MEDIA_NUM4 | $MEDIA_NUM5 | $MEDIA_NUM6);
+# 增加对号码开头结尾的支持
+$NUMBERS = ($MEDIA_NUM4 | $MEDIA_NUM5 | $MEDIA_NUM7 | $MEDIA_NUM8 | $MEDIA_NUM9 | $MEDIA_NUM10);
+
+#综合联系人名和号码数据源(酌情考虑是否添加电话号码的支持)
+$CONTACT_OR_NUMBER = ($CONTACTS | $NUMBERS);
+
+#打电话领域说法列举
+$CALL_CONTACT_CMD1 = [打电话给|打给]($CONTACT_OR_NUMBER);
+$CALL_CONTACT_CMD2 = 给($CONTACT_OR_NUMBER)打电话;
+$CALL_CONTACT_CMD3 = 拨打($CONTACT_OR_NUMBER)[的电话];
+$CALL_CONTACT_CMD4 = [帮我](接|拨|打)通($CONTACT_OR_NUMBER)[的电话];
+$CALL_CONTACT_CMD5 = 呼叫($CONTACT_OR_NUMBER);
+$CALL_CONTACT_CMD_ALL = ($CALL_CONTACT_CMD1 | $CALL_CONTACT_CMD2 | $CALL_CONTACT_CMD3 | $CALL_CONTACT_CMD4 | $CALL_CONTACT_CMD5 );
+$DOMAIN_CALL_OUTPUT = ($CALL_CONTACT_CMD_ALL)/domain="phone"/;
+
+ 
+# 导航领域说法
+$NAVI_EXIT_CMD = (退出|停止|结束|关闭|关掉|退掉|关了|退了)[导航];
+$NAVI_CMD = [帮我|替我|给我|我想|我要|我就要|我就是要]导航;
+$NAVI_ACTION = 开始导航|继续导航;
+$DOMAIN_NAVI_OUTPUT = ($NAVI_EXIT_CMD|$NAVI_CMD|$NAVI_ACTION)/domain="navi"/; 
+
+#音乐领域说法列举(暂时未加)
+$MUSIC_SONG_OPERATION1=(播放|打开|我要听|我想听|听一听|听听);
+$MUSIC_SONG_OPERATION2=(播放|来|放|播|听|唱)[这一首|那一首|这首|那首|一首|那个|首];
+$MUSIC_SONG_OPERATION3=来(这一首|那一首|这首|那首|一首|那个|首);
+$MUSIC_OPEN_CMD = ($MUSIC_SONG_OPERATION1|$MUSIC_SONG_OPERATION2|$MUSIC_SONG_OPERATION3)($MUSICS);
+$MUSIC_ACTION_CMD = (播放音乐 | 播放一首歌 |[我想|我要|我就要|我就是要]听歌|打开考拉｜考拉电台｜考拉FM);
+$MUSIC_SONG_CMD = 下一首| 换一首 |下一首歌曲;
+$FM_RADIO=收藏|音乐|新闻|搞笑|本地 ;
+$FM_NEXT_SONG_VERB=切|切到|切换到|($MUSIC_SONG_OPERATION1);
+$MUSIC_RADIO_CMD = 换个频道|换频道| 换歌 | 换节目 |换个台|换台|[$FM_NEXT_SONG_VERB]($FM_RADIO)频道|[$FM_NEXT_SONG_VERB]本地音乐 |  [$FM_NEXT_SONG_VERB] 我的收藏;
+$MUSIC_PLAY_CMD = (暂停|继续|播放|停止|后台播放 | 收藏 | 删除 |保存 | 删掉 | 不喜欢 | 不要听 | 去掉 | 不想听);
+$MUSIC_JUMP_CMD = (音乐 | 电台 | 考拉｜考拉电台｜考拉FM | 歌曲 | 广播 | 收音机 | 新闻 | 段子 | 相声 | 笑话);
+$MUSIC_VOLUME_NOUNS=(音量|声音|音乐);
+$MUSIC_VOLUME_ADJUST = (调大|增大|加大|调高|升高|调小|调低|降低|减小);
+$MUSIC_VOLUME = ($MUSIC_VOLUME_ADJUST $MUSIC_VOLUME_NOUNS)|($MUSIC_VOLUME_NOUNS $MUSIC_VOLUME_ADJUST) | 声音大点 | 声音小点 | 再大点 | 再小点 | 再提高点 | 再降低点;
+$MUSIC_FM_SET = 设置好了 | 设好了 | 已经设置 | 已设置 | 不需要 | 不要设 | 不用设;
+$MUSIC_FM_START = (开启|打开|启动|设置|开始)[声音|FM|音响](投射|广播);
+$MUSIC_FM_STOP = (关闭|关掉|退出|取消|退掉|关了)[声音|FM|音响](投射|广播);
+$DOMAIN_MUSIC_OUTPUT = ($MUSIC_OPEN_CMD | $MUSIC_ACTION_CMD | $MUSIC_PLAY_CMD | $MUSIC_SONG_CMD | $MUSIC_RADIO_CMD | $MUSIC_VOLUME | $MUSIC_FM_SET | $MUSIC_JUMP_CMD | $MUSIC_FM_START | $MUSIC_FM_STOP)/domain="music"/;
+
+$DOMAIN_CHANGE_CALL=[帮我|替我|给我|我想|我要|我就要|我就是要]打电话;
+$DOMAIN_CHANGE_WX=[帮我|替我|给我|我想|我要|我就要|我就是要]发微信;
+$DOMAIN_CHANGE_NAVI= (开始|关闭|退出|重新)导航;
+$DOMAIN_CHANGE_MUSIC1=[我想|我要|我就要|我就是要|打开](听歌|播放音乐|考拉[电台]|收音机|音乐|听音乐|听首歌|放首歌|播首歌|播音乐|放音乐) ;
+$DOMAIN_CHANGE_MUSIC2=关闭音乐|停止播放音乐|关闭考拉|回主页 | 回首页 ;
+$DOMAIN_CHANGE_ALL = ($DOMAIN_CHANGE_CALL | $DOMAIN_CHANGE_WX | $DOMAIN_CHANGE_NAVI | $DOMAIN_CHANGE_MUSIC1 | $DOMAIN_CHANGE_MUSIC2)/domain="change"/;
+
+#微信领域说法列举
+$WC_CONTACT_CMD1 = ($WC_CONTACTS);
+$WC_CONTACT_CMD2 = 给($WC_CONTACTS)发[个|条]微信;
+$WC_CONTACT_CMD3 = 发[个|条]微信给($WC_CONTACTS);
+$WC_CONTACT_CMD_ALL = ($WC_CONTACT_CMD1 | $WC_CONTACT_CMD2 | $WC_CONTACT_CMD3);
+$DOMAIN_WECHAT_ORDER = 微信|发微信|发送|重说|再发一条|返回|播报|忽略|回复 | 输入 | 朗读 | 查看 | 不再提醒 | 防打扰 | 重听 | 没听清 | 免打扰  ;
+$DOMAIN_WECHAT_ORDER2 = (不要|不用|不)(回复|回|发送|发|播报|播放|播) ;
+$DOMAIN_WECHAT_NOTDISTURB = (免打扰 | 屏蔽消息) ;
+$DOMAIN_WECHAT_OUTPUT=($DOMAIN_WECHAT_ORDER | $DOMAIN_WECHAT_ORDER2 | $DOMAIN_WECHAT_NOTDISTURB | $WC_CONTACT_CMD_ALL)/domain="wechat"/;
+
+#其他领域说法列举, 全局命令
+$OTHER_REDIAL_CMD = (重拨 | 回拨 | 回过去 | 回一下 | 回电 | 不回拨 | 不重拨);
+$OTHER_AFFIRM_CMD = (确定 | OK | (是[的]) | 好的 | 呼叫 | 对的 | 确认 | 确信);
+$OTHER_NEGATE_CMD = (取消 | 不是 | 不要 | 退出 | 再见 | 不对 | 错了 | 都不是 | 不确定);
+#$OTHER_INDEX_CMD = ((第($DIGIT)个[号码]) | (号码($DIGIT)));
+$OTHER_INDEX_CMD = ( [选]第($DIGIT)个 | 选 ($DIGIT) | 最后一个 | 中间一个 );
+$OTHER_PAGE_CMD = (上|下)一页|第($DIGIT)页;
+$OTHER_CONFIRM_TYPE = ( ($TYPES) | ($TYPES)(电话|号码) | ($CITYS) | ($CITYS)(号码));
+$COMMON_CMD =  (回主页 | 回首页 | 主页 |首页 | 返回 | 取消 | 退出 | 关闭 | 结束 | 停止 | 声音大点 | 声音小点 | 调高音量 |调低音量 | 闭嘴 | 返回导航  | 查看路况 | 路况  | 音乐  | 微信 | 设置 ｜ 电话 | 小乐);
+$COMMON_SETTING1 = 设置;
+$COMMON_SETTING2 = (打开 | 开启 | 启动 | 开 | 关闭 | 取消 | 退出 | 关)(路况 | 电子狗 | 热点);
+$COMMON_SETTING3 = (路况 | 电子狗 | 热点)(打开 | 开启 | 启动 | 开 | 关闭 | 取消 | 退出 | 关);
+$COMMON_SETTING4 = (改 | 重置 | 修改)[热点](密码);
+$COMMON_SETTING5 = [使用 | 用](百度地图 | 高德地图);
+
+$DOMAIN_OTHER_OUTPUT = ($OTHER_REDIAL_CMD | $OTHER_AFFIRM_CMD | $OTHER_NEGATE_CMD | $OTHER_INDEX_CMD| $OTHER_CONFIRM_TYPE | $OTHER_PAGE_CMD | $COMMON_CMD | $COMMON_SETTING1 | $COMMON_SETTING2 | $COMMON_SETTING3 | $COMMON_SETTING4 | $COMMON_SETTING5)/domain="other"/; 
+
+
+#导航路径选择
+$NAVI_ROUTE = (开始导航 | 推荐的 | 最快的 | 最短的 | 推荐 | 最快 | 最短 ｜ 不走高速 | 走高速 | 躲避拥堵 | 全览图 | 查看全览图 | 继续导航  | 重选地点 | 重新选择 )/domain="router"/;
+
+#接听电话
+$PHONE_INCOMING = ( 接听 | 拒绝 |  挂断 | 呼叫  | 不接 | 挂了 |  挂机 | 接吧 | 不接听 | 挂掉) /thresh=0.5,domain="callin"/;
+
+#设置
+$SETTING =  (打开路况 | 开启路况 | 关闭路况  | 打开电子狗 | 开启电子狗 | 关闭电子狗 |  打开车载电台 | 打开广播发射 | 关闭车载电台 | 关闭广播发射 | 打开热点 | 关闭热点 | 热点密码是多少 ) /domain="setting"/;
+
+#全局唤醒词语
+$GLOBAL_CMD =  (萝卜 | 车萝卜) /domain="other"/;
+
+
+#合并所有说法
+$SEMANTIC_OUTPUT =[你好小乐]($DOMAIN_CALL_OUTPUT | $DOMAIN_OTHER_OUTPUT | $DOMAIN_NAVI_OUTPUT | $DOMAIN_MUSIC_OUTPUT | $DOMAIN_CHANGE_ALL | $DOMAIN_WECHAT_OUTPUT  | $SETTING | $PHONE_INCOMING | $NAVI_ROUTE | $GLOBAL_CMD );
+
+( \<s\> ($SEMANTIC_OUTPUT) \<\/s\> )

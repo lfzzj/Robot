@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+	package
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:1-100:12
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:9:5-11:47
+	tools:ignore
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:10:9-68
+permission#com.hamitao.kids.permission.JPUSH_MESSAGE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:14:9-65
+uses-permission#com.hamitao.kids.permission.JPUSH_MESSAGE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:23:5-25:47
+	tools:ignore
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:24:9-57
+uses-permission#android.permission.VIBRATE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:26:22-63
+uses-permission#android.permission.SHUTDOWN
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:29:5-31:47
+	tools:ignore
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:30:9-51
+uses-permission#android.permission.MOUNT_FORMAT_FILESYSTEMS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:34:5-36:47
+	tools:ignore
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:36:9-44
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:35:9-67
+uses-permission#androd.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:38:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:43:5-78
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:43:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:44:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:45:5-76
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:45:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:46:5-79
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:46:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:47:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:48:5-79
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:48:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:49:5-68
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:49:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:52:5-71
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:52:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:53:5-80
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:53:22-77
+uses-permission#android.permission.CAMERA
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:55:5-65
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:55:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:57:5-70
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:57:19-67
+uses-feature#android.hardware.camera
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:58:5-60
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:58:19-57
+uses-permission#android.permission.FLASHLIGHT
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:61:5-69
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:61:22-66
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:63:5-91
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:63:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:65:5-68
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:65:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:66:5-74
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:66:22-71
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:70:5-72:47
+	tools:ignore
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:72:9-44
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:71:9-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:75:5-69
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:75:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:76:5-81
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:76:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:82:5-72
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:82:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:83:5-73
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:83:22-70
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:85:5-87:47
+	tools:ignore
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:87:9-44
+	android:name
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:86:9-61
+application
+ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:92:5-98:19
+	android:supportsRtl
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:95:9-35
+	android:label
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:94:9-41
+	android:allowBackup
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml:93:9-35
+uses-sdk
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\framework\src\main\AndroidManifest.xml
+		INJECTED from G:\project\Robot\framework\src\main\AndroidManifest.xml

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/el_video_chat_head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/tv_video_chat_call_name"
+        android:layout_marginBottom="@dimen/text_size_10"
+        android:padding="@dimen/text_size_2">
+
+        <ImageView
+            android:id="@+id/iv_video_chat_head"
+            android:layout_width="@dimen/wh_video_chat_head"
+            android:layout_height="@dimen/wh_video_chat_head" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_video_chat_call_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="妈妈正在呼叫你"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_20" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_video_chat_call_name"
+        android:paddingLeft="@dimen/text_size_20"
+        android:paddingRight="@dimen/text_size_20"
+        android:layout_marginTop="@dimen/text_size_15"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_refuse_phone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_refuse_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/icon_phone_refuse" />
+
+            <TextView
+                android:id="@+id/tv_refuse_phone"
+                style="@style/text_white_style"
+                android:layout_marginTop="@dimen/text_size_8"
+                android:text="@string/refused_to"
+               />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_answer"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_answer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/icon_phone_answer" />
+
+            <TextView
+                style="@style/text_white_style"
+                android:layout_marginTop="8dp"
+                android:text="@string/answer" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

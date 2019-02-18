@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:id="@+id/rl_bg" >
+
+    <include
+        android:id="@+id/ll_title"
+        layout="@layout/layout_title" />
+
+    <LinearLayout
+        android:id="@+id/ll_btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_size_50"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <com.hamitao.kids.record.AudioRecordButton
+            android:id="@+id/btn_voice"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/btn_check"
+            android:drawableLeft="@drawable/icon_chat_voice"
+
+            android:gravity="center"
+            android:paddingLeft="@dimen/text_size_20"
+            android:layout_weight="1.8"
+            android:layout_toLeftOf="@+id/tv_line"
+            android:paddingRight="@dimen/text_size_20"
+            android:text="@string/hold_down_talk"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_22" />
+
+        <TextView
+            android:id="@+id/tv_line"
+            android:layout_width="0dp"
+            android:layout_weight="0.03"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/btn_video"
+            android:background="@color/line_color" />
+
+        <Button
+            android:id="@+id/btn_video"
+            android:layout_width="0dp"
+            android:layout_weight="1.0"
+            android:layout_height="match_parent"
+            android:background="@drawable/selector_btn_click_bg"
+            android:drawableLeft="@drawable/icon_chat_video"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:paddingLeft="@dimen/text_size_10"
+            android:paddingRight="@dimen/text_size_10"
+            android:text="@string/video"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_22" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_btn"
+        android:layout_below="@+id/ll_title"
+  >
+
+        <cn.jiguang.imui.messages.MessageList
+            android:id="@+id/msg_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:paddingTop="@dimen/text_size_10"
+            app:avatarHeight="@dimen/text_size_40"
+            app:avatarRadius="@dimen/text_size_50"
+
+            app:avatarWidth="40dp"
+            app:bubbleMaxWidth="0.70"
+            app:dateTextSize="@dimen/text_size_10"
+            app:receiveBubbleColor="@color/receive_text_color"
+            app:receiveBubblePaddingLeft="@dimen/text_size_16"
+            app:receiveBubblePaddingRight="@dimen/text_size_8"
+            app:receiveTextColor="@color/white"
+            app:receiveTextSize="@dimen/text_size_14"
+
+            app:showReceiverDisplayName="false"
+            app:displayNameTextColor="@color/white"
+
+            app:sendBubbleColor="@color/blue_color"
+            app:sendBubblePaddingLeft="@dimen/text_size_8"
+            app:sendBubblePaddingRight="@dimen/text_size_16"
+            app:sendTextColor="@color/black"
+            app:sendTextSize="@dimen/text_size_14" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp">
+
+    <com.hamitao.framework.widgets.MarqueTextView
+        android:id="@+id/tv_phone_name"
+        android:layout_width="@dimen/text_size_70"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        style="@style/text_white_style"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/text_size_10"
+        android:textSize="@dimen/text_size_25" />
+
+    <TextView
+        android:id="@+id/tv_phone_num"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/text_size_10"
+        style="@style/text_white_style"
+        android:layout_toRightOf="@+id/tv_phone_name"
+        android:textSize="@dimen/text_size_25" />
+</RelativeLayout>

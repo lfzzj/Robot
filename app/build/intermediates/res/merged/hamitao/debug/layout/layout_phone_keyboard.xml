@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4.0"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/table_num"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black" />
+
+            <LinearLayout style="@style/layout_input_amount_style">
+
+                <Button
+                    android:id="@+id/btn_one"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="1" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_two"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="2" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_three"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="3" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_four"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="1dp"
+                    android:text="4" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black" />
+
+            <LinearLayout style="@style/layout_input_amount_style">
+
+
+                <Button
+                    android:id="@+id/btn_five"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="5" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_six"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="6" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_seven"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="7" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_eight"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="8" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black" />
+
+            <LinearLayout style="@style/layout_input_amount_style">
+
+                <Button
+                    android:id="@+id/btn_nine"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="9" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_star"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="*" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_zero"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="0" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_pound"
+                    style="@style/btn_input_amount_style"
+                    android:layout_marginRight="@dimen/text_size_1"
+                    android:text="#" />
+
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/black" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black" />
+        <ImageButton
+            android:id="@+id/btn_del"
+            style="@style/btn2_input_amount_style"
+            android:layout_marginBottom="@dimen/text_size_1"
+            android:layout_weight="1"
+            android:src="@drawable/icon_phonedelete" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black" />
+        <ImageButton
+            android:id="@+id/btn_call"
+            style="@style/btn2_input_amount_style"
+            android:layout_marginBottom="@dimen/text_size_1"
+            android:layout_weight="2"
+            android:src="@drawable/icon_phone" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

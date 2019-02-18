@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 整体透明画布 -->
+    <SurfaceView
+        android:id="@+id/preview_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- 扫描取景框 -->
+    <com.hamitao.kids.zxing.view.ViewfinderView
+        android:id="@+id/viewfinder_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/text_size_10"
+      />
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/text_size_30"
+        android:layout_gravity="top"
+        android:background="#99000000">
+
+        <ImageButton
+            android:id="@+id/capture_imageview_back"
+            android:layout_width="@dimen/text_size_30"
+            android:layout_height="@dimen/text_size_30"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+
+        <TextView
+            style="@style/text_white_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/scan_text"
+            android:textSize="@dimen/text_size_22" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/h_wifi_singer">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_size_40"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginRight="@dimen/text_size_6">
+
+        <ImageView
+            android:id="@+id/iv_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true" />
+
+        <com.hamitao.framework.widgets.MarqueTextView
+            android:id="@+id/tv_ssid"
+            android:layout_width="@dimen/w_wifi_list_item"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/text_size_10"
+            android:layout_marginRight="@dimen/text_size_10"
+            android:layout_toRightOf="@+id/iv_level"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_wifi_list_item_name" />
+
+
+        <TextView
+            android:id="@+id/tv_conn_state"
+            style="@style/text_white_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="@string/connect"
+            android:textSize="@dimen/text_size_22"
+            android:visibility="gone" />
+    </RelativeLayout>
+</RelativeLayout>

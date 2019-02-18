@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\cycle_7.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\bga_sbl_activity_swipeback_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-swipebacklayout-1.2.0.aar\\aaf070eeaf9c19c95900e01996484e1c\\res\\anim\\bga_sbl_activity_swipeback_enter.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\bga_sbl_activity_backward_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-swipebacklayout-1.2.0.aar\\aaf070eeaf9c19c95900e01996484e1c\\res\\anim\\bga_sbl_activity_backward_enter.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\bga_sbl_activity_backward_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-swipebacklayout-1.2.0.aar\\aaf070eeaf9c19c95900e01996484e1c\\res\\anim\\bga_sbl_activity_backward_exit.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\shake.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\bga_sbl_activity_swipeback_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-swipebacklayout-1.2.0.aar\\aaf070eeaf9c19c95900e01996484e1c\\res\\anim\\bga_sbl_activity_swipeback_exit.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\in_from_right.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\bga_sbl_activity_forward_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-swipebacklayout-1.2.0.aar\\aaf070eeaf9c19c95900e01996484e1c\\res\\anim\\bga_sbl_activity_forward_enter.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\in_from_left.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\out_to_left.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\out_to_right.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\bga_sbl_activity_forward_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-swipebacklayout-1.2.0.aar\\aaf070eeaf9c19c95900e01996484e1c\\res\\anim\\bga_sbl_activity_forward_exit.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

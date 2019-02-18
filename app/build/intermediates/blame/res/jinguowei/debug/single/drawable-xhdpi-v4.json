@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func1_phone.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func1_phone.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_tick_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_tick_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func1_study.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func1_study.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_fullscreen_enter.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_english_study.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_english_study.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_receivevoice_receive_2.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_receivevoice_receive_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_shuffle.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_connect_wifi_1.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_connect_wifi_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func1_read.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func1_read.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_receivevoice_receive_1.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_receivevoice_receive_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_delete_success_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_delete_success_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\bg_photo_shadow.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\bg_photo_shadow.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_send_msg_error.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_send_msg_error.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_setting_volumeset.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_setting_volumeset.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_sendtxt_bubble.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_sendtxt_bubble.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\default_menuitem_voice_pres.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\default_menuitem_voice_pres.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_connect_wifi_2.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_connect_wifi_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\img_gsmintensity_4.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\img_gsmintensity_4.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_phonedelete_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_phonedelete_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func1_play.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func1_play.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_sendvoice_send_1.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_sendvoice_send_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_picture_book.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_picture_book.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_headicon_default.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_headicon_default.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_phone_refuse.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_phone_refuse.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_story.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_story.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func3_english_study_translation.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_func3_english_study_translation.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_sendvoice_send_2.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_sendvoice_send_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\progressbar.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\progressbar.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_nursery_rhymes.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_nursery_rhymes.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_receivevoice_receive_3.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_receivevoice_receive_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_repeat_all.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\bg_battery_power_main_haier.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\bg_battery_power_main_haier.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\bg_battery_charging_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\bg_battery_charging_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func1_chat.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func1_chat.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_receivetxt_bubble.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_receivetxt_bubble.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_sys_minus.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_sys_minus.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_sys_plus.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_sys_plus.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\img_gsmintensity_1.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\img_gsmintensity_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_edit_mode_logo.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_repeat_off.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\img_gsmintensity_0.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\img_gsmintensity_0.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_phone_answer.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_phone_answer.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\img_gsmintensity_3.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\img_gsmintensity_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func3_english_study_follow_me.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_func3_english_study_follow_me.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_phone_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_phone_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_picture_not_found.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_picture_not_found.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\bg_battery_charging.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\bg_battery_charging.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_country_learn.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_country_learn.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\bg_battery_lightning.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\bg_battery_lightning.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_chat_video_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_chat_video_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_poetry_recite.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_poetry_recite.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_repeat_one.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func1_album.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func1_album.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_fullscreen_exit.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\bg_battery_power_main.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\bg_battery_power_main.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_sendvoice_send_3.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_sendvoice_send_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_connect_wifi_3.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_connect_wifi_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_anim.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_anim.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\img_gsmintensity_2.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\img_gsmintensity_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func1_setting.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func1_setting.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_receivevoice_unread.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_receivevoice_unread.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\bg_battery_power.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\bg_battery_power.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-xhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_func2_safety_education.png",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable-xhdpi\\icon_func2_safety_education.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\aurora_send_msg_sending.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable-xhdpi-v4\\aurora_send_msg_sending.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable-xhdpi-v4\\icon_sys_brightness_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-xhdpi\\icon_sys_brightness_jgw.png"
+    }
+]

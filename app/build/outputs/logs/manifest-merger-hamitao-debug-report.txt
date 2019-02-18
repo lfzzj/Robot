@@ -1,0 +1,930 @@
+-- Merging decision tree log ---
+meta-data#com.amap.api.v2.apikey
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:22:9-24:55
+	android:value
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:24:13-42
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:23:13-50
+category#com.hamitao.kids
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:158:17-61
+	android:name
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:158:27-58
+provider#cn.jpush.android.service.DataProvider
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:285:9-289:48
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:113:9-116:40
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:113:9-116:40
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:95:9-98:40
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:95:9-98:40
+	android:authorities
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:287:13-64
+	android:exported
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:288:13-36
+		REJECTED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:116:13-37
+		REJECTED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:98:13-37
+	tools:replace
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:289:13-45
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:286:13-65
+manifest
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b8d9f20c7f149bb0ad195e7f4d09ea28\AndroidManifest.xml:17:1-22:12
+MERGED from [:AISpeech] G:\project\Robot\AISpeech\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:cloudminds-activationtool:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cloudminds-activationtool.aar\8d8124dff48e3c1aa4b5ab95b0bf513d\AndroidManifest.xml:2:1-11:12
+MERGED from [:RequestFrame] G:\project\Robot\RequestFrame\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-95:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\5bc1caaa9af24227d7ac54ea410d25c5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\92d7229cbcd862dc5ba6d6866127e248\AndroidManifest.xml:2:1-11:12
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:2:1-19:12
+MERGED from [:semantic-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\semantic-release.aar\6368913c6d130d6d2a5e7f2e0cafaf36\AndroidManifest.xml:2:1-19:12
+MERGED from [:common-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\common-release.aar\09d6305d51d5495018fbb43e4ff67f2a\AndroidManifest.xml:2:1-16:12
+MERGED from [:sdkhttp:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\sdkhttp.aar\770a1a07dbcc459a61a5b7c9f4cb39b6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\ebec5b0aeed90d0cef8d6879daf0d9ec\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\98dbc8d00db17155b526241c8faca686\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\4c479020ee3fabdd1646c3f858dcc713\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\944423e94bb8f42f43986bd310814060\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\946e221c31866f603469cf87db5c8120\AndroidManifest.xml:17:1-25:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\ce539e650093b5ce2fedc686d081f1a3\AndroidManifest.xml:2:1-7:12
+MERGED from [cn.jiguang.imui:messagelist:0.7.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\messagelist-0.7.2.aar\6124c1a005af8a424be4801cb9f787cf\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\7f83161cb47d5901c1fada7e12f7fb9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\1008ff6424ad10e6d30051e798b12d40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.timmy.tdialog:tdialog:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\tdialog-1.3.1.aar\c8532590eceb1348b21bf9249cb86d5c\AndroidManifest.xml:2:1-11:12
+MERGED from [:p2p] G:\project\Robot\p2p\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5e436085a4c8ef8c36b83d9424a4ed84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.airbnb.android:lottie:1.5.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lottie-1.5.3.aar\16dbab48b27ae2fe5ba4e5a74228c94d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ce74db6c18398afc3fd308dcee45ac87\AndroidManifest.xml:17:1-22:12
+MERGED from [cn.bingoogolapple:bga-adapter:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-adapter-1.1.9.aar\3ab9c647718608a77cf06adcd21543b1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\ebcf1c66879ff06a6ceb023a6be86c58\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\1514e41e7bf3ec4d43deb901b6c46d72\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7eafc5f5f89f0a7a2193ceffce248823\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\1b9eba1b641a5a95abc4a2f0484b4afe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\21c2386fb0bcf1b570c17dc2d443a08a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1a457bfac056f00bca332a3c65773d06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4aaced9730cf2a5084064760b173878a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\eacef797ddba6cbc86b555d8d451762a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f6091fc4b022ae79f4bc567e0fb6d744\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\f257ee65da4bcbca61921ad9281e944b\AndroidManifest.xml:17:1-22:12
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-database-sqlcipher-3.5.4.aar\e08dee17b833fe62cf1f01e85c828981\AndroidManifest.xml:2:1-4:12
+MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.0.aar\2124cf773e4677decdcdedc8cea75a3c\AndroidManifest.xml:15:1-21:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\c0c36b1a78d3b508fb5bce17b60ec115\AndroidManifest.xml:2:1-10:12
+MERGED from [cn.bingoogolapple:bga-swipebacklayout:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-swipebacklayout-1.2.0.aar\aaf070eeaf9c19c95900e01996484e1c\AndroidManifest.xml:2:1-9:12
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:2:1-133:12
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:2:1-121:12
+MERGED from [cn.jiguang.sdk:jcore:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jcore-1.1.9.aar\5b91b71bf14ea551593cdf5611aaad17\AndroidManifest.xml:2:1-14:12
+MERGED from [:ExtVideo] G:\project\Robot\ExtVideo\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:livemulti] G:\project\Robot\livemulti\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7b5d984c324f08f7e87e6c62ddf82b0e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6281dc1907d546f88af0c8790b81f059\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\580ca9901a7f2b37b3281bfda160108d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4899951d8f949bee84a37c7287fbd00\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+	package
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:1-297:12
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:5:5-45
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:7:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:13:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:71:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:71:5-76
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:11:5-76
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:11:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:27:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:27:5-76
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:27:5-76
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:7:22-73
+permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:8:17-72
+application
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:10:5-295:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:17:5-20:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:17:5-20:19
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:89:5-93:19
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:89:5-93:19
+MERGED from [:semantic-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\semantic-release.aar\6368913c6d130d6d2a5e7f2e0cafaf36\AndroidManifest.xml:13:5-17:19
+MERGED from [:semantic-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\semantic-release.aar\6368913c6d130d6d2a5e7f2e0cafaf36\AndroidManifest.xml:13:5-17:19
+MERGED from [:common-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\common-release.aar\09d6305d51d5495018fbb43e4ff67f2a\AndroidManifest.xml:11:5-14:38
+MERGED from [:common-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\common-release.aar\09d6305d51d5495018fbb43e4ff67f2a\AndroidManifest.xml:11:5-14:38
+MERGED from [:sdkhttp:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\sdkhttp.aar\770a1a07dbcc459a61a5b7c9f4cb39b6\AndroidManifest.xml:11:5-15:19
+MERGED from [:sdkhttp:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\sdkhttp.aar\770a1a07dbcc459a61a5b7c9f4cb39b6\AndroidManifest.xml:11:5-15:19
+MERGED from [cn.jiguang.imui:messagelist:0.7.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\messagelist-0.7.2.aar\6124c1a005af8a424be4801cb9f787cf\AndroidManifest.xml:11:5-14:19
+MERGED from [cn.jiguang.imui:messagelist:0.7.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\messagelist-0.7.2.aar\6124c1a005af8a424be4801cb9f787cf\AndroidManifest.xml:11:5-14:19
+MERGED from [com.airbnb.android:lottie:1.5.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lottie-1.5.3.aar\16dbab48b27ae2fe5ba4e5a74228c94d\AndroidManifest.xml:10:5-20
+MERGED from [com.airbnb.android:lottie:1.5.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lottie-1.5.3.aar\16dbab48b27ae2fe5ba4e5a74228c94d\AndroidManifest.xml:10:5-20
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:37:5-131:19
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:37:5-131:19
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:42:5-119:19
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:42:5-119:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jcore-1.1.9.aar\5b91b71bf14ea551593cdf5611aaad17\AndroidManifest.xml:11:5-12:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jcore-1.1.9.aar\5b91b71bf14ea551593cdf5611aaad17\AndroidManifest.xml:11:5-12:19
+MERGED from [:ExtVideo] G:\project\Robot\ExtVideo\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:ExtVideo] G:\project\Robot\ExtVideo\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:livemulti] G:\project\Robot\livemulti\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:livemulti] G:\project\Robot\livemulti\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+	android:screenOrientation
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:18:9-45
+	android:supportsRtl
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:15:9-41
+	android:hardwareAccelerated
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:13:9-44
+	android:layerType
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:17:9-37
+	android:largeHeap
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:16:9-33
+	android:icon
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:11:9-34
+service#com.amap.api.location.APSService
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:26:9-76
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:26:18-65
+activity#com.hamitao.kids.ui.activity.WelcomeActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:28:9-39:20
+	android:configChanges
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:29:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER+android.intent.category.MONKEY
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:31:13-38:29
+action#android.intent.action.MAIN
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:34:27-74
+category#android.intent.category.MONKEY
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:35:17-75
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:35:27-72
+category#android.intent.category.HOME
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:36:17-73
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:36:27-70
+category#android.intent.category.DEFAULT
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:37:27-73
+activity#com.hamitao.kids.ui.activity.MainActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:42:9-44:47
+	android:launchMode
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:43:13-53
+activity#com.hamitao.kids.ui.activity.WakeUpActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:47:9-49:47
+	android:launchMode
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:48:13-55
+activity#com.hamitao.kids.ui.activity.VideoChatP2PActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:50:9-70
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:50:19-67
+activity#com.hamitao.kids.ui.activity.WifiActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:53:9-62
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:53:19-59
+activity#com.hamitao.kids.ui.activity.FuncActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:56:9-62
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:56:19-59
+activity#com.hamitao.kids.ui.activity.FuncTwoActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:59:9-65
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:59:19-62
+activity#com.hamitao.kids.ui.activity.FuncThreeActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:61:9-67
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:61:19-64
+activity#com.hamitao.kids.ui.activity.ScanBookActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:64:9-66
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:64:19-63
+activity#com.hamitao.kids.ui.activity.ShakeActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:67:9-63
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:67:19-60
+activity#com.hamitao.kids.zxing.android.CaptureActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:68:9-67
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:68:19-64
+activity#com.hamitao.kids.ui.activity.EnglishStudyFollowMeActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:71:9-78
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:71:19-75
+activity#com.hamitao.kids.ui.activity.EnglishStudyTranslationActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:74:9-81
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:74:19-78
+activity#com.hamitao.kids.ui.activity.EnglishStudyFollowMeListActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:77:9-82
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:77:19-79
+activity#com.hamitao.kids.ui.activity.FollowMeContentActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:79:9-73
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:79:19-70
+activity#com.hamitao.kids.ui.activity.SettingActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:82:9-65
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:82:19-62
+activity#com.hamitao.kids.ui.activity.WifiConnActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:84:9-66
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:84:19-63
+activity#com.hamitao.kids.ui.activity.SystemControlActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:86:9-71
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:86:19-68
+activity#com.hamitao.kids.ui.activity.LocalInfoActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:88:9-67
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:88:19-64
+activity#com.hamitao.kids.ui.activity.UsingWizardActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:90:9-69
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:90:19-66
+activity#com.hamitao.kids.ui.activity.TimeActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:92:9-62
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:92:19-59
+activity#com.hamitao.kids.ui.activity.LocalBellsetActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:94:9-70
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:94:19-67
+activity#com.hamitao.kids.ui.activity.AlarmActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:96:9-63
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:96:19-60
+activity#com.hamitao.kids.ui.activity.NetConnActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:98:9-65
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:98:19-62
+activity#com.hamitao.kids.ui.activity.ScanConnActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:100:9-66
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:100:19-63
+activity#com.hamitao.kids.ui.activity.SessionListActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:105:9-107:47
+	android:launchMode
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:107:13-44
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:106:13-60
+activity#com.hamitao.kids.ui.activity.ContactActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:110:9-65
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:110:19-62
+activity#com.hamitao.kids.ui.activity.ChatActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:113:9-62
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:113:19-59
+activity#com.hamitao.kids.ui.activity.ContentTreeActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:116:9-69
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:116:19-66
+activity#com.hamitao.kids.ui.activity.ContentTreeChildrenActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:119:9-77
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:119:19-74
+activity#com.hamitao.kids.ui.activity.CameraActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:122:9-64
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:122:19-61
+activity#com.hamitao.kids.ui.activity.AlbumActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:125:9-63
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:125:19-60
+activity#com.hamitao.kids.ui.activity.AlbumViewerActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:128:9-69
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:128:19-66
+activity#com.hamitao.kids.ui.activity.PlayActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:131:9-134:47
+	android:launchMode
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:134:13-44
+	android:configChanges
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:133:13-63
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:132:13-53
+activity#com.hamitao.kids.ui.activity.ParentsAppDownloadActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:137:9-76
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:137:19-73
+activity#com.hamitao.kids.ui.activity.MachineBindingCodeActivity
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:138:9-76
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:138:19-73
+receiver#com.hamitao.kids.receiver.PhoneReceiver
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:142:9-147:20
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:142:19-57
+intent-filter#android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:143:13-146:29
+	android:priority
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:143:28-51
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:144:17-82
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:144:25-79
+action#android.intent.action.PHONE_STATE
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:145:17-76
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:145:25-73
+receiver#com.hamitao.kids.receiver.MyReceiver
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:148:9-160:20
+	android:enabled
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:150:13-35
+	android:exported
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:151:13-37
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:149:13-48
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.hamitao.kids
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:152:13-159:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:153:17-79
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:153:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:154:17-83
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:154:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:155:17-88
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:155:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:156:17-86
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:156:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:157:17-77
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:157:25-74
+service#cn.jpush.android.service.PushService
+ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:291:9-294:44
+REJECTED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:60:9-71:19
+REJECTED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:46:9-57:19
+	tools:node
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:294:13-33
+	android:process
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:293:13-44
+	android:name
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml:292:13-64
+uses-sdk
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b8d9f20c7f149bb0ad195e7f4d09ea28\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b8d9f20c7f149bb0ad195e7f4d09ea28\AndroidManifest.xml:20:5-43
+MERGED from [:AISpeech] G:\project\Robot\AISpeech\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:AISpeech] G:\project\Robot\AISpeech\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:cloudminds-activationtool:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cloudminds-activationtool.aar\8d8124dff48e3c1aa4b5ab95b0bf513d\AndroidManifest.xml:7:5-9:41
+MERGED from [:cloudminds-activationtool:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cloudminds-activationtool.aar\8d8124dff48e3c1aa4b5ab95b0bf513d\AndroidManifest.xml:7:5-9:41
+MERGED from [:RequestFrame] G:\project\Robot\RequestFrame\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:RequestFrame] G:\project\Robot\RequestFrame\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\5bc1caaa9af24227d7ac54ea410d25c5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\5bc1caaa9af24227d7ac54ea410d25c5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\92d7229cbcd862dc5ba6d6866127e248\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\92d7229cbcd862dc5ba6d6866127e248\AndroidManifest.xml:7:5-9:41
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:7:5-9:41
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:7:5-9:41
+MERGED from [:semantic-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\semantic-release.aar\6368913c6d130d6d2a5e7f2e0cafaf36\AndroidManifest.xml:7:5-9:41
+MERGED from [:semantic-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\semantic-release.aar\6368913c6d130d6d2a5e7f2e0cafaf36\AndroidManifest.xml:7:5-9:41
+MERGED from [:common-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\common-release.aar\09d6305d51d5495018fbb43e4ff67f2a\AndroidManifest.xml:7:5-9:41
+MERGED from [:common-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\common-release.aar\09d6305d51d5495018fbb43e4ff67f2a\AndroidManifest.xml:7:5-9:41
+MERGED from [:sdkhttp:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\sdkhttp.aar\770a1a07dbcc459a61a5b7c9f4cb39b6\AndroidManifest.xml:7:5-9:41
+MERGED from [:sdkhttp:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\sdkhttp.aar\770a1a07dbcc459a61a5b7c9f4cb39b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\ebec5b0aeed90d0cef8d6879daf0d9ec\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\ebec5b0aeed90d0cef8d6879daf0d9ec\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\98dbc8d00db17155b526241c8faca686\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\98dbc8d00db17155b526241c8faca686\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\4c479020ee3fabdd1646c3f858dcc713\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\4c479020ee3fabdd1646c3f858dcc713\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\944423e94bb8f42f43986bd310814060\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\944423e94bb8f42f43986bd310814060\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\946e221c31866f603469cf87db5c8120\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\946e221c31866f603469cf87db5c8120\AndroidManifest.xml:21:5-23:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\ce539e650093b5ce2fedc686d081f1a3\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\ce539e650093b5ce2fedc686d081f1a3\AndroidManifest.xml:5:5-43
+MERGED from [cn.jiguang.imui:messagelist:0.7.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\messagelist-0.7.2.aar\6124c1a005af8a424be4801cb9f787cf\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.imui:messagelist:0.7.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\messagelist-0.7.2.aar\6124c1a005af8a424be4801cb9f787cf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\7f83161cb47d5901c1fada7e12f7fb9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\7f83161cb47d5901c1fada7e12f7fb9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\1008ff6424ad10e6d30051e798b12d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\1008ff6424ad10e6d30051e798b12d40\AndroidManifest.xml:20:5-44
+MERGED from [com.timmy.tdialog:tdialog:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\tdialog-1.3.1.aar\c8532590eceb1348b21bf9249cb86d5c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.timmy.tdialog:tdialog:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\tdialog-1.3.1.aar\c8532590eceb1348b21bf9249cb86d5c\AndroidManifest.xml:7:5-9:41
+MERGED from [:p2p] G:\project\Robot\p2p\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:p2p] G:\project\Robot\p2p\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5e436085a4c8ef8c36b83d9424a4ed84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5e436085a4c8ef8c36b83d9424a4ed84\AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:1.5.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lottie-1.5.3.aar\16dbab48b27ae2fe5ba4e5a74228c94d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.airbnb.android:lottie:1.5.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lottie-1.5.3.aar\16dbab48b27ae2fe5ba4e5a74228c94d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ce74db6c18398afc3fd308dcee45ac87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ce74db6c18398afc3fd308dcee45ac87\AndroidManifest.xml:20:5-44
+MERGED from [cn.bingoogolapple:bga-adapter:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-adapter-1.1.9.aar\3ab9c647718608a77cf06adcd21543b1\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-adapter:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-adapter-1.1.9.aar\3ab9c647718608a77cf06adcd21543b1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\ebcf1c66879ff06a6ceb023a6be86c58\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\ebcf1c66879ff06a6ceb023a6be86c58\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\1514e41e7bf3ec4d43deb901b6c46d72\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\1514e41e7bf3ec4d43deb901b6c46d72\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7eafc5f5f89f0a7a2193ceffce248823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7eafc5f5f89f0a7a2193ceffce248823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\1b9eba1b641a5a95abc4a2f0484b4afe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\1b9eba1b641a5a95abc4a2f0484b4afe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\21c2386fb0bcf1b570c17dc2d443a08a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\21c2386fb0bcf1b570c17dc2d443a08a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1a457bfac056f00bca332a3c65773d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1a457bfac056f00bca332a3c65773d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4aaced9730cf2a5084064760b173878a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\4aaced9730cf2a5084064760b173878a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\eacef797ddba6cbc86b555d8d451762a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\eacef797ddba6cbc86b555d8d451762a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f6091fc4b022ae79f4bc567e0fb6d744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f6091fc4b022ae79f4bc567e0fb6d744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\f257ee65da4bcbca61921ad9281e944b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\f257ee65da4bcbca61921ad9281e944b\AndroidManifest.xml:20:5-44
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-database-sqlcipher-3.5.4.aar\e08dee17b833fe62cf1f01e85c828981\AndroidManifest.xml:3:3-40
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-database-sqlcipher-3.5.4.aar\e08dee17b833fe62cf1f01e85c828981\AndroidManifest.xml:3:3-40
+MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.0.aar\2124cf773e4677decdcdedc8cea75a3c\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.0.aar\2124cf773e4677decdcdedc8cea75a3c\AndroidManifest.xml:19:5-43
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\c0c36b1a78d3b508fb5bce17b60ec115\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\c0c36b1a78d3b508fb5bce17b60ec115\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-swipebacklayout:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-swipebacklayout-1.2.0.aar\aaf070eeaf9c19c95900e01996484e1c\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.bingoogolapple:bga-swipebacklayout:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-swipebacklayout-1.2.0.aar\aaf070eeaf9c19c95900e01996484e1c\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jcore-1.1.9.aar\5b91b71bf14ea551593cdf5611aaad17\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jcore-1.1.9.aar\5b91b71bf14ea551593cdf5611aaad17\AndroidManifest.xml:7:5-9:41
+MERGED from [:ExtVideo] G:\project\Robot\ExtVideo\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ExtVideo] G:\project\Robot\ExtVideo\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:livemulti] G:\project\Robot\livemulti\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:livemulti] G:\project\Robot\livemulti\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7b5d984c324f08f7e87e6c62ddf82b0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7b5d984c324f08f7e87e6c62ddf82b0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6281dc1907d546f88af0c8790b81f059\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6281dc1907d546f88af0c8790b81f059\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\580ca9901a7f2b37b3281bfda160108d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\580ca9901a7f2b37b3281bfda160108d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4899951d8f949bee84a37c7287fbd00\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4899951d8f949bee84a37c7287fbd00\AndroidManifest.xml:20:5-44
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		ADDED from G:\project\Robot\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\Robot\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:11:5-67
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-67
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-67
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:12:5-67
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:12:5-67
+MERGED from [:semantic-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\semantic-release.aar\6368913c6d130d6d2a5e7f2e0cafaf36\AndroidManifest.xml:11:5-67
+MERGED from [:semantic-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\semantic-release.aar\6368913c6d130d6d2a5e7f2e0cafaf36\AndroidManifest.xml:11:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:18:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:18:5-67
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:18:5-67
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:12:5-79
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-79
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-79
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:60:5-79
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:60:5-79
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:13:5-79
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:13:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:26:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:26:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:25:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:14:5-81
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:15:5-81
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:15:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:21:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:21:5-81
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:21:5-81
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:15:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:80:5-76
+MERGED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:80:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:32:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:32:5-76
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:34:5-76
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.5.aar\e0a6874ea32390e06be7314444888b19\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-17:47
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:25:5-84
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:25:5-84
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:24:5-84
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:24:5-84
+	tools:ignore
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-68
+permission#com.hamitao.kids.permission.JPUSH_MESSAGE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-21:47
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:11:5-13:47
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:9-65
+uses-permission#com.hamitao.kids.permission.JPUSH_MESSAGE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:16:5-81
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:17:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:17:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:17:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:19:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:19:5-68
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:19:5-68
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:5-75
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:14:5-75
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:14:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:20:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:20:5-75
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:20:5-75
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:22:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:22:5-80
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:22:5-80
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:5-31:47
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:23:5-73
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:23:5-73
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:26:5-73
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:26:5-73
+	tools:ignore
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:9-57
+uses-permission#android.permission.VIBRATE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:24:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:24:5-66
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:23:5-66
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:22-63
+uses-permission#android.permission.SHUTDOWN
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:5-37:47
+	tools:ignore
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-51
+uses-permission#android.permission.MOUNT_FORMAT_FILESYSTEMS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:5-42:47
+	tools:ignore
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:9-67
+uses-permission#androd.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:44:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:30:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:30:5-78
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:30:5-78
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:5-81
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:16:5-81
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:16:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:31:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:31:5-81
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:31:5-81
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:5-79
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:17:5-79
+MERGED from [:authority-release:] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\authority-release.aar\d5b9af2de6ab78b962257dfa5e2b5dec\AndroidManifest.xml:17:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:33:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:33:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:32:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:34:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:34:5-89
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:33:5-89
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:54:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:35:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:35:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:35:5-79
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:54:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:55:5-68
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:55:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:5-71
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:38:5-71
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:59:5-80
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:40:5-80
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:40:5-80
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:59:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:61:5-65
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:39:5-65
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:39:5-65
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:61:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:63:5-70
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:63:19-67
+uses-feature#android.hardware.camera
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:64:5-60
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:64:19-57
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:67:5-69
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:67:22-66
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:68:5-75
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:68:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:69:5-68
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:69:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:70:5-74
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:70:22-71
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:72:5-74:47
+	tools:ignore
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:74:9-44
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:73:9-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:77:5-69
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:77:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:78:5-81
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:78:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:81:5-72
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:81:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:82:5-73
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:82:22-70
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:83:5-85:47
+	tools:ignore
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:85:9-44
+	android:name
+		ADDED from [:framework] G:\project\Robot\framework\build\intermediates\manifests\full\debug\AndroidManifest.xml:84:9-61
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:11:5-13:47
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:11:5-13:47
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:16:5-81
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:16:5-81
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:40:9-43:52
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:41:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:46:9-57:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:49:13-37
+	android:configChanges
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:47:13-60
+intent-filter#${JPUSH_PKGNAME}+android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:51:13-56:29
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.hamitao.kids
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:51:13-56:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:52:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:52:25-72
+category#${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:55:17-61
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:55:27-58
+service#cn.jpush.android.service.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:75:9-84:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:77:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:76:13-66
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:79:13-83:29
+intent-filter#cn.jpush.android.intent.DaemonService+com.hamitao.kids
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:79:13-83:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:80:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:80:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:87:9-106:20
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:60:9-80:20
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:60:9-80:20
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:89:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:88:13-65
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:91:13-94:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:91:28-51
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.hamitao.kids
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:91:13-94:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:91:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:92:17-94
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:92:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.USER_PRESENT
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:96:17-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:96:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:97:17-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:97:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:100:13-105:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:101:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:101:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:102:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:102:25-77
+data
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:104:17-50
+	android:scheme
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:104:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:109:9-111:40
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:90:9-92:40
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:90:9-92:40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:110:13-66
+provider#cn.jpush.android.service.DownloadProvider
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:118:9-121:39
+	android:authorities
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:120:13-68
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:121:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:119:13-69
+meta-data#JPUSH_CHANNEL
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:124:9-126:48
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:112:9-114:48
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:112:9-114:48
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:126:13-45
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:125:13-41
+meta-data#JPUSH_APPKEY
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:127:9-129:47
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:116:9-118:47
+MERGED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:116:9-118:47
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:129:13-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jpush-3.1.1.aar\ae32b0cd17b40c80e0859c492bf66617\AndroidManifest.xml:128:13-40
+receiver#cn.jpush.im.android.helpers.IMReceiver
+ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:83:9-87:20
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:85:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:84:13-66
+provider#cn.jpush.im.android.helpers.ipc.IMProvider
+ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:101:9-104:40
+	android:authorities
+		ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:103:13-62
+	android:exported
+		ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:104:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jmessage:2.7.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\jmessage-2.7.0.aar\ade9876ba5b91c608dba29e78891648e\AndroidManifest.xml:102:13-70

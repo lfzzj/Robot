@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: authority-release:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/authority-release.aar/d5b9af2de6ab78b962257dfa5e2b5dec/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/authority-release.aar/d5b9af2de6ab78b962257dfa5e2b5dec/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

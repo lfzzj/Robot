@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_margin="5dp"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_head"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true" />
+
+        <com.hamitao.framework.widgets.MarqueTextView
+            android:id="@+id/tv_contact_name"
+            android:layout_width="@dimen/text_size_60"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_head"
+            android:layout_centerInParent="true"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:layout_marginBottom="@dimen/text_size_2"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_16" />
+
+        <TextView
+            android:id="@+id/tv_msg_num"
+            android:layout_width="@dimen/text_size_22"
+            android:layout_height="@dimen/text_size_22"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/text_size_5"
+            android:layout_marginTop="@dimen/text_size_5"
+            android:background="@drawable/unread_read_point"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_20" />
+    </RelativeLayout>
+</RelativeLayout>

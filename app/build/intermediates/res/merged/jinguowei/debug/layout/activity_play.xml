@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--视频音频-->
+    <com.hamitao.kids.manager.play.MediaPlayer
+        android:id="@+id/mediaplayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--图片 gif-->
+    <com.hamitao.kids.manager.play.ImgPlayer
+        android:id="@+id/imageplayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+    <com.hamitao.kids.manager.play.Controller
+        android:id="@+id/controller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--数据加载失败 刷新按钮-->
+    <com.hamitao.kids.manager.play.RefreshView
+        android:id="@+id/view_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

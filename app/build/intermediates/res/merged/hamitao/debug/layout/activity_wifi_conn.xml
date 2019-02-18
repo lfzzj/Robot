@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title" />
+
+    <TextView
+        android:id="@+id/tv_conn_wifi_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/text_size_16"
+        android:layout_marginTop="@dimen/text_size_10"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_20" />
+
+    <TextView
+        style="@style/text_white_style"
+        android:layout_marginLeft="@dimen/text_size_16"
+        android:layout_marginTop="@dimen/text_size_10"
+        android:text="@string/psw" />
+
+    <com.hamitao.framework.widgets.LastInputEditText
+        android:id="@+id/et_wifi_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/text_size_16"
+        android:layout_marginTop="15dp"
+        android:background="@null"
+        android:drawableBottom="@drawable/line"
+        android:textColor="@color/white"
+        android:textCursorDrawable="@drawable/my_cursor"
+        android:textSize="22dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_size_15">
+
+        <Button
+            android:id="@+id/tv_wifi_conn_cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/cancel"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+
+        <Button
+            android:id="@+id/tv_wifi_conn_comfirm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/confirm"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+
+    </LinearLayout>
+</LinearLayout>

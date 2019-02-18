@@ -1,0 +1,210 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        multiDexEnabled true
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                includeCompileClasspath true
+            }
+        }
+        android.compileOptions.sourceCompatibility 1.8
+        android.compileOptions.targetCompatibility 1.8
+
+        ndk {
+            abiFilters "armeabi"
+        }
+    }
+
+    //渠道密钥配置
+    signingConfigs {
+        hamitaoDebug {
+            storeFile file('D:/keystore/hamitao.jks')
+            storePassword("hamitao888")   //你自己的keystore密码
+            keyAlias 'hamitao'   //key别名
+            keyPassword 'hamitao888'   //key密码
+        }
+        hamitaoRelease {
+            storeFile file('D:/keystore/hamitao.jks')
+            storePassword("hamitao888")
+            keyAlias "hamitao"
+            keyPassword "hamitao888"
+        }
+
+        jinguoweiDebug {
+            storeFile file('D:/keystore/hamitao.jks')
+            storePassword("hamitao888")   //你自己的keystore密码
+            keyAlias 'hamitao'   //key别名
+            keyPassword 'hamitao888'   //key密码
+        }
+        jinguoweiRelease {
+            storeFile file('D:/keystore/hamitao.jks')
+            storePassword("hamitao888")
+            keyAlias "hamitao"
+            keyPassword "hamitao888"
+        }
+        haierDebug {
+            storeFile file('D:/keystore/haier.jks')
+            storePassword("123456")
+            keyAlias "haier"
+            keyPassword "123456"
+        }
+        haierRelease {
+            storeFile file('D:/keystore/haier.jks')
+            storePassword("123456")
+            keyAlias "haier"
+            keyPassword "123456"
+        }
+    }
+
+    flavorDimensions "default"
+    productFlavors {
+        haier {
+            applicationId 'com.hamitao.haierrobot'
+//            signingConfig = signingConfigs.haierRelease
+            versionCode 1
+            versionName '1.0.0'
+            resValue "string", "app_name", "小帅"
+            //极光推送
+            manifestPlaceholders = [
+                    JPUSH_PKGNAME: applicationId,
+                    JPUSH_APPKEY : "56063ae7d9f17469655e1d2c", //JPush上注册的包名对应的appkey.
+                    JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+                    "MAP_APPKEY":"513aa032b4ada12aa01ba323be5ae21f"//高德地图的key
+            ]
+
+        }
+        jinguowei {
+            applicationId 'com.hamitao.jgwrobot'
+//            signingConfig = signingConfigs.jinguoweiRelease
+            versionCode 1
+            versionName '1.0.0'
+            resValue "string", "app_name", '果果同学'
+            //极光推送
+            manifestPlaceholders = [
+                    JPUSH_PKGNAME: applicationId,
+                    JPUSH_APPKEY : "d491f17da02a31dcc820f983", //JPush上注册的包名对应的appkey.
+                    JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+                    "MAP_APPKEY":"80fe9439e85e36f0e316f638e0063f08"//高德地图的key
+            ]
+        }
+        hamitao {
+            applicationId 'com.hamitao.kids'
+//            signingConfig = signingConfigs.hamitaoRelease
+            versionCode 10101
+            versionName '1.1.1'
+            resValue "string", "app_name", "小淘同学"
+            //极光推送
+            manifestPlaceholders = [
+                    JPUSH_PKGNAME: applicationId,
+                    JPUSH_APPKEY : "2822915cb877d822d680a6e2", //JPush上注册的包名对应的appkey.
+                    JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+                    "MAP_APPKEY":"2c561d066036ae1218f98cef72c04ea1"//高德地图的key
+            ]
+        }
+    }
+
+    buildscript {
+        repositories {
+            mavenCentral()
+        }
+    }
+    allprojects {
+        repositories {
+            mavenCentral()
+            flatDir {
+                dirs 'libs'
+            }
+        }
+    }
+
+//    compileOptions {
+//        sourceCompatibility JavaVersion.VERSION_1_7
+//        targetCompatibility JavaVersion.VERSION_1_7
+//    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    signingConfigs {
+        release {
+            keyAlias 'childkey'
+            keyPassword '123456'
+//            storeFile file('D:/keystore/childkey.jks')
+            storeFile file('F:/private project/keystore/childkey.jks')
+//            storeFile file('F:/private project/keystore/childkey.jks')
+            storePassword '123456'
+        }
+    }
+
+    buildTypes {
+        debug {
+//            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        release {
+            //Zipalign优化
+            zipAlignEnabled true
+            //移除无用的resource文件
+            shrinkResources true
+//            signingConfig signingConfigs.release
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig null  // 置空
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['./jni']
+        }
+    }
+
+    //multiDex的一些相关配置，这样配置可以让你的编译速度更快
+    dexOptions {
+        preDexLibraries = false
+        //让它不要对Lib做preDexing
+//        incremental true
+        //开启incremental dexing,优化编译效率，这个功能android studio默认是关闭的。
+        javaMaxHeapSize "4g"     //增加java堆内存大小
+    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    aaptOptions {
+        noCompress "dat"
+    }
+}
+
+dependencies {
+    //    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //阿里云oss sdk
+    compile 'com.aliyun.dpa:oss-android-sdk:2.8.5'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+    compile 'com.android.support:multidex:1.0.1'
+    //    compile project(':jiaozivideoplayer')
+    compile project(':AISpeech')
+    //    implementation 'cn.jzvd:jiaozivideoplayer:6.3.1'
+    implementation 'com.google.android.exoplayer:exoplayer:2.7.1'
+    //达闼
+    compile(name: 'cloudminds-activationtool', ext: 'aar')
+}

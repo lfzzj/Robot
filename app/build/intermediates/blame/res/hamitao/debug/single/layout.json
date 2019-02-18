@@ -1,0 +1,658 @@
+[
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_test.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\progress_bar_play.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\progress_bar_play.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_translation.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_translation.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_keyboard.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\layout\\view_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_item_content_tree_children.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\item_item_content_tree_children.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_receive_new_msg.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_receive_new_msg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_chat.xml",
+        "source": "G:\\project\\Robot\\app\\src\\hamitao\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_title.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_title.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_album_viewer.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_album_viewer.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_contact.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_event_message.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_event_message.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_content_tree.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_content_tree.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_scan_conn.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_scan_conn.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_status_bar.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_status_bar.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_face.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_face.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\adapter_album_viewer.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\adapter_album_viewer.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_network_connect.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_network_connect.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\adapter_follow_me_content.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\adapter_follow_me_content.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_send_video.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_send_video.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_camera.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_receive_photo.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_receive_photo.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_video_chat_p2p.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_video_chat_p2p.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_wake_up.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_wake_up.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_img_play.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_img_play.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_content_tree.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\item_content_tree.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_system_control.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_system_control.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_local_bell.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_local_bell.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\exo_player_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\layout\\exo_player_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_parents_app_download.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_parents_app_download.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_func_follow_me_content.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_func_follow_me_content.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_phone_keyboard_common.xml",
+        "source": "G:\\project\\Robot\\app\\src\\hamitao\\res\\layout\\layout_phone_keyboard_common.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_receive_video.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_receive_video.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_net_conn_way.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_net_conn_way.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_setting.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\exo_simple_player_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_play.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_item_func.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_item_func.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_video_chat_before_conn.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\dialog_video_chat_before_conn.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_media_player.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_media_player.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_media_control.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_media_control.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_time.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_time.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_unread_msg.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\layout\\view_unread_msg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_using_wizard.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_using_wizard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_shake.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_shake.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_keyboard.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\dialog_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_refresh.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_refresh.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\fragment_contacts.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_conversation.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_conversation.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_customer.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_customer.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_phone_keyboard_jgw.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_phone_keyboard_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_wifi.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_wifi.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_wifi.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\item_wifi.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\jpush-3.1.1.aar\\ae32b0cd17b40c80e0859c492bf66617\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_del_photo.xml",
+        "source": "G:\\project\\Robot\\app\\src\\hamitao\\res\\layout\\dialog_del_photo.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_manager.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\dialog_manager.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_func_two.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_func_two.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\fragment_call_phone_common.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\fragment_call_phone_common.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_loading.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_main_func.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_main_func.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_receive_txt.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_receive_txt.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_content_tree_children.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_content_tree_children.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_power_show.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_power_show.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\main_surface_view.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\main_surface_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_transient_notification.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_transient_notification.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\head.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_welcome.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\progress_bar.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_recycler.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\tdialog-1.3.1.aar\\c8532590eceb1348b21bf9249cb86d5c\\res\\layout\\dialog_recycler.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_keyboard.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\layout\\item_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_custom.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\custom.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\exo_player_control_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\layout\\exo_player_control_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_album.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_album.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_turn_off_dialog.xml",
+        "source": "G:\\project\\Robot\\app\\src\\hamitao\\res\\layout\\view_turn_off_dialog.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_controller.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_controller.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_status_data_time.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_status_data_time.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\bga_adapter_item_databinding_dummy.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-adapter-1.1.9.aar\\3ab9c647718608a77cf06adcd21543b1\\res\\layout\\bga_adapter_item_databinding_dummy.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_alarm_ring.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\dialog_alarm_ring.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_receive_voice.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_receive_voice.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_send_voice.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_send_voice.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_progress_dialog.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_progress_dialog.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_func.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_func.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_phone_keyboard.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_phone_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_send_photo.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_send_photo.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\jpush-3.1.1.aar\\ae32b0cd17b40c80e0859c492bf66617\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_album.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\item_album.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_main.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_media_play_new.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_media_play_new.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_wifi_conn.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_wifi_conn.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_phone_book.xml",
+        "source": "G:\\project\\Robot\\app\\src\\hamitao\\res\\layout\\item_phone_book.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_send_text.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\layout\\item_send_text.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_display.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\dialog_display.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_alarm_view.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\item_alarm_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_local_bell.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\item_local_bell.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\capture.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\layout_common_func.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\layout_common_func.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_local_info.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_local_info.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\bga_adapter_empty_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-adapter-1.1.9.aar\\3ab9c647718608a77cf06adcd21543b1\\res\\layout\\bga_adapter_empty_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\dialog_power_connect_view.xml",
+        "source": "G:\\project\\Robot\\app\\src\\hamitao\\res\\layout\\dialog_power_connect_view.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\f6091fc4b022ae79f4bc567e0fb6d744\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_alarm.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_media_emoji.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_media_emoji.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\item_contacts.xml",
+        "source": "G:\\project\\Robot\\app\\src\\hamitao\\res\\layout\\item_contacts.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\view_alarm_show.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\view_alarm_show.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\hamitao\\debug\\layout\\activity_picture_viewer.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\layout\\activity_picture_viewer.xml"
+    }
+]

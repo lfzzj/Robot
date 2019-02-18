@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/outer"
+    android:layout_width="@dimen/text_size_70"
+    android:layout_height="@dimen/text_size_70">
+
+
+    <ImageView
+        android:id="@+id/iv_msg_num_total"
+        android:layout_width="@dimen/text_size_50"
+        android:layout_height="@dimen/text_size_50"
+        android:layout_marginBottom="@dimen/text_size_10"
+        android:src="@drawable/icon_message" />
+
+    <TextView
+        android:id="@+id/tv_msg_num_total"
+        android:layout_width="@dimen/text_size_22"
+        android:layout_height="@dimen/text_size_22"
+        android:layout_marginLeft="@dimen/text_size_35"
+        android:background="@drawable/unread_read_point"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_16" />
+
+
+    <!--<RelativeLayout
+        android:layout_width="@dimen/text_size_70"
+        android:layout_height="@dimen/text_size_70"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true">
+
+        <ImageView
+            android:id="@+id/iv_msg_num_total"
+            android:layout_width="@dimen/text_size_50"
+            android:layout_height="@dimen/text_size_50"
+            android:layout_marginBottom="@dimen/text_size_10"
+            android:background="@drawable/icon_message" />
+
+        <TextView
+            android:id="@+id/tv_msg_num_total"
+            android:layout_width="@dimen/text_size_22"
+            android:layout_height="@dimen/text_size_22"
+            android:layout_marginLeft="@dimen/text_size_40"
+            android:background="@drawable/unread_read_point"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_16" />
+    </RelativeLayout>-->
+
+</RelativeLayout>

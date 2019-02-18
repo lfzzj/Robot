@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Widget_GifView">
+
+    </style>
+
+    <style name="CustomDialogStyle" parent="@android:style/Theme.Dialog">
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@color/transparent</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 背景模糊 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 允许对话框的背景变暗 -->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="text_white_style" parent="text_style">
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:typeface">sans</item>-->
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_black_style" parent="text_style">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_18</item>
+    </style>
+
+    <style name="seekbar_style" parent="@android:style/Widget.SeekBar">
+        <item name="android:minHeight">6dp</item>
+        <item name="android:maxHeight">6dp</item>
+        <item name="android:progressDrawable">@drawable/progress_horizotal</item>
+        <item name="android:thumb">@drawable/seek_bar_thumb</item>
+    </style>
+
+    <style name="remind_dialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="style_keyboard_bg"  parent="style_keyboard_bg_common">
+        <item name="android:background">@drawable/selector_keyboard</item>
+    </style>
+
+    <style name="style_keyboard_bg_jgw" parent="style_keyboard_bg_common">
+        <item name="android:background">@drawable/selector_keyboard_jgw</item>
+    </style>
+    <style name="style_keyboard_bg_common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+
+
+</resources>

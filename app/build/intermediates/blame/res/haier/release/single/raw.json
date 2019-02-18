@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_translation.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_translation.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_album.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_album.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_no_net_updata_contact.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_no_net_updata_contact.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_scan_book.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_scan_book.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_receive_new_info.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_receive_new_info.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_eyes.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_eyes.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_low_power_reminder.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_low_power_reminder.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\prompt_message_frist.mp3",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\raw\\prompt_message_frist.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_charging.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_charging.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_story.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_story.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\weichat_audio.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\weichat_audio.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_turn_off.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_turn_off.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_study.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_study.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_safety_enucation.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_safety_enucation.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_play.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_play.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_full_power_reminder.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_full_power_reminder.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_chinese_poetry.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_chinese_poetry.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_send_msg.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_send_msg.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_too_long_rest.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_too_long_rest.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_chat.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_chat.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\beep.ogg",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_wisdom_read.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_wisdom_read.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_wake_up_xiaopengyou.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_wake_up_xiaopengyou.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_net_connect.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_net_connect.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_book.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_book.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_net_disconnect.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_net_disconnect.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_english_study.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_english_study.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_no_content.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_no_content.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_children_song.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_children_song.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_follow_me.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_follow_me.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_install_sim.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_install_sim.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_wake_up_wozai.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_wake_up_wozai.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_anim.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_anim.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_read_book.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_read_book.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_phone.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_phone.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_func_setting.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_func_setting.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_wake_up_xixi.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_wake_up_xixi.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\prompt_message.mp3",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\raw\\prompt_message.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_net_connect_fail.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_net_connect_fail.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_no_seach_content.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_no_seach_content.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\alarm_clock.aac",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\alarm_clock.aac"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\voice_hint_poke_face.mp3",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\voice_hint_poke_face.mp3"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\release\\raw\\apple_iphone_6.aac",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\release\\res\\raw\\apple_iphone_6.aac"
+    }
+]

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:68
+-keep class com.hamitao.kids.app.MyApp { <init>(...); }
+

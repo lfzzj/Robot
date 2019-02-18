@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+
+    <com.hamitao.framework.widgets.MarqueTextView
+        android:id="@+id/tv_content_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_size_18"
+        android:layout_marginTop="@dimen/text_size_4"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_16" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/iv_anim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/iv_anim_user_speak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+    <LinearLayout
+        android:id="@+id/ll_control_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/text_size_16"
+        android:layout_marginRight="@dimen/text_size_16"
+        android:layout_marginTop="@dimen/text_size_62"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_media_previous"
+            android:layout_width="@dimen/text_size_45"
+            android:layout_height="@dimen/text_size_45"
+            android:background="@drawable/icon_previous"
+            android:clickable="true" />
+
+        <ImageView
+            android:id="@+id/iv_media_pause"
+            android:layout_width="@dimen/text_size_45"
+            android:layout_height="@dimen/text_size_45"
+            android:layout_marginLeft="@dimen/text_size_22"
+            android:layout_marginRight="@dimen/text_size_22"
+            android:layout_toRightOf="@+id/iv_media_previous"
+            android:background="@drawable/icon_pause"
+            android:clickable="true" />
+
+        <ImageView
+            android:id="@+id/iv_media_next"
+            android:layout_width="@dimen/text_size_45"
+            android:layout_height="@dimen/text_size_45"
+            android:layout_toRightOf="@+id/iv_media_pause"
+            android:background="@drawable/icon_next"
+            android:clickable="true" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\project\\Robot\\app\\build\\intermediates\\incremental\\mergeJinguoweiDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "3023",
+                        "endColumns": "100",
+                        "endOffsets": "3119"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,308,422,508,608,721,797,873,953,1056,1155,1251,1355,1453,1554,1707,1804",
+                        "endColumns": "107,94,113,85,99,112,75,75,79,102,98,95,103,97,100,152,96,78",
+                        "endOffsets": "208,303,417,503,603,716,792,868,948,1051,1150,1246,1350,1448,1549,1702,1799,1878"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,308,422,508,608,721,797,873,953,1056,1155,1251,1355,1453,1554,1707,2944",
+                        "endColumns": "107,94,113,85,99,112,75,75,79,102,98,95,103,97,100,152,96,78",
+                        "endOffsets": "208,303,417,503,603,716,792,868,948,1051,1150,1246,1350,1448,1549,1702,1799,3018"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,262,365,462,567,673,784,887,990,1102",
+                        "endColumns": "107,98,102,96,104,105,110,102,102,111,92",
+                        "endOffsets": "158,257,360,457,562,668,779,882,985,1097,1190"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1804,1912,2011,2114,2211,2316,2422,2533,2636,2739,2851",
+                        "endColumns": "107,98,102,96,104,105,110,102,102,111,92",
+                        "endOffsets": "1907,2006,2109,2206,2311,2417,2528,2631,2734,2846,2939"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\values-nb\\values-nb.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "3023",
+                        "endColumns": "100",
+                        "endOffsets": "3119"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,308,422,508,608,721,797,873,953,1056,1155,1251,1355,1453,1554,1707,1804",
+                        "endColumns": "107,94,113,85,99,112,75,75,79,102,98,95,103,97,100,152,96,78",
+                        "endOffsets": "208,303,417,503,603,716,792,868,948,1051,1150,1246,1350,1448,1549,1702,1799,1878"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,308,422,508,608,721,797,873,953,1056,1155,1251,1355,1453,1554,1707,2944",
+                        "endColumns": "107,94,113,85,99,112,75,75,79,102,98,95,103,97,100,152,96,78",
+                        "endOffsets": "208,303,417,503,603,716,792,868,948,1051,1150,1246,1350,1448,1549,1702,1799,3018"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,262,365,462,567,673,784,887,990,1102",
+                        "endColumns": "107,98,102,96,104,105,110,102,102,111,92",
+                        "endOffsets": "158,257,360,457,562,668,779,882,985,1097,1190"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1804,1912,2011,2114,2211,2316,2422,2533,2636,2739,2851",
+                        "endColumns": "107,98,102,96,104,105,110,102,102,111,92",
+                        "endOffsets": "1907,2006,2109,2206,2311,2417,2528,2631,2734,2846,2939"
+                    }
+                }
+            ]
+        }
+    ]
+}

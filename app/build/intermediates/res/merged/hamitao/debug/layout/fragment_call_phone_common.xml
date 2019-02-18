@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/tv_phone_num"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_size_40"
+        android:textCursorDrawable="@drawable/shape_phone_cursor"
+        android:gravity="center"
+        android:textColor="@color/common_color"
+        android:background="@color/common_call_phone_keyboard_bg_color"
+        android:paddingLeft="@dimen/text_size_20"
+        android:paddingRight="@dimen/text_size_20"
+        android:singleLine="true"
+        android:textSize="@dimen/text_size_20" />
+
+
+    <include
+        layout="@layout/layout_phone_keyboard_common"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tv_phone_num" />
+</RelativeLayout>

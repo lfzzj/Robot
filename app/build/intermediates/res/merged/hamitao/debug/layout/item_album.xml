@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/w_album_relative_photo"
+    android:layout_height="@dimen/h_album_relative_photo">
+
+    <RelativeLayout
+        android:id="@+id/rl_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/margin_item_album"
+        android:layout_marginLeft="@dimen/margin_item_album"
+        android:layout_marginRight="@dimen/margin_item_album"
+        android:layout_marginTop="@dimen/margin_item_album"
+        android:background="@drawable/bg_photoborder"
+        android:padding="@dimen/text_size_3">
+
+        <ImageView
+            android:id="@+id/iv_album"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           />
+
+        <ImageView
+            android:id="@+id/iv_del"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:background="@drawable/icon_untick"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/text_size_4"
+            android:layout_marginTop="@dimen/text_size_4" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

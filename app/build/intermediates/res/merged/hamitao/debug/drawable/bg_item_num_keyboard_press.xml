@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--数字键盘按下背景-->
+    <!-- 内部颜色 -->
+    <solid
+        android:color="@color/keyboard_btn_bg_press" />
+    <!-- 边缘线条颜色 -->
+    <!--<stroke-->
+    <!--android:width="1dp"-->
+    <!--android:color="@color/rgb53_99" />-->
+    <!-- 圆角的幅度 -->
+    <corners
+        android:topLeftRadius="8dp"
+        android:topRightRadius="8dp"
+        android:bottomLeftRadius="8dp"
+        android:bottomRightRadius="8dp" />
+</shape>

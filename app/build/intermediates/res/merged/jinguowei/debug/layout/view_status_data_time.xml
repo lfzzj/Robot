@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl_time"
+        android:layout_width="@dimen/text_size_150"
+        android:layout_height="@dimen/height_home_time"
+        android:layout_centerHorizontal="true"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_state_time"
+            style="@style/text_style"
+            android:textColor="@color/common_main_color"
+            android:layout_centerInParent="true"
+            android:textSize="@dimen/text_size_home_time" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_voice"
+        android:layout_width="@dimen/wh_main_voice"
+        android:layout_height="@dimen/wh_main_voice"
+        android:layout_marginTop="@dimen/text_size_20"
+        android:layout_toRightOf="@+id/rl_time">
+
+        <ImageView
+            android:id="@+id/iv_voice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/icon_voice_home_page" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_state_data"
+        style="@style/text_style"
+        android:textColor="@color/common_main_color"
+        android:layout_below="@+id/rl_time"
+        android:layout_marginLeft="@dimen/text_size_12"
+        android:layout_marginTop="@dimen/text_size_1"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_25" />
+
+    <TextView
+        android:id="@+id/tv_state_week"
+        style="@style/text_style"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/common_main_color"
+        android:layout_below="@+id/rl_time"
+        android:layout_marginRight="@dimen/text_size_32"
+        android:layout_marginTop="1dp"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_25" />
+
+
+</RelativeLayout>

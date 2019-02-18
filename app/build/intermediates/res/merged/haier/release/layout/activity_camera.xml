@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <SurfaceView
+            android:id="@+id/camera_surfaceView"
+            android:layout_width="@dimen/w_camera_surface"
+            android:layout_height="@dimen/h_camera_surface"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/text_size_70"
+            android:layout_alignParentBottom="true">
+
+            <ImageView
+                android:id="@+id/iv_photo_preview"
+                android:layout_width="@dimen/text_size_40"
+                android:layout_height="@dimen/text_size_30"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="@dimen/text_size_5" />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/take_picture"
+            android:layout_width="@dimen/wh_camera_btn"
+            android:layout_height="@dimen/wh_camera_btn"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/text_size_6"
+            android:background="@drawable/icon_album_taking_pic" />
+
+        <View
+            android:id="@+id/focus_index"
+            android:layout_width="@dimen/text_size_10"
+            android:layout_height="@dimen/text_size_10"
+            android:background="@drawable/camera_focus"
+            android:visibility="invisible" />
+
+    </RelativeLayout>
+</FrameLayout>

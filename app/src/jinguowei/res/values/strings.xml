@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--厂商-->
+    <string name="vendor">jinguowei</string>
+
+    <!--唤醒词-->
+    <string name="wake_up_word">ni hao xiao le</string>
+    <string name="wake_up_word_chinese">你好小乐</string>
+
+    <!--Turing Key Secret-->
+    <string name="turing_key">b0815b8d202a4ebcb7f742609e96a361</string>
+    <string name="turing_secret">0001g2dK411773i8</string>
+
+    <!--使用向导-->
+    <string name="hint_using_wizard">
+    1.在使用天才果时，可在任意界面呼叫“你好小乐”进入唤醒页面，进行不同类型的对话交流和指令要求。\n\n
+        2.学习：包括国学诗词、英语学习、安全教育三个模块。点击学习主题进入音频/视频随机播放，如需点播具体内容，可在“小淘同学”App中点击投送按钮进行播放。\n\n
+        3.娱乐：包括儿歌、故事、绘本、动画，点击主题进入音频/视频随机播放。\n\n
+        4.聊天：可自动同步App端已绑定过的账号和群聊信息，选定联系人或群即可进行语音/视频对话。\n\n
+        5.打电话：可自动同步App端已添加联系人和联系号码，点击需要拨打的联系人，或通过唤醒词“你好小乐”语音呼叫联系人名称。也可通过手动拨号进行通话。\n\n
+        6.相册：可以拍照、浏览照片和删除照片。相片存储在云端，不用担心过多照片占用机器人内存。\n\n
+        7、设置：\n
+            ①WIFI功能：连接后即可在WiFi环境下使用；户外可凭借sim卡流量来支持机器人正常使用。\n
+            ②亮度设置：可调节屏幕亮度。\n
+            ③音量设置：可调节机器人声音。\n
+            ④绑定向导：第一次使用“小淘精灵”学习机器人，需下载家长App，即“小淘同学”。下载后点击下一步，用小淘同学APP扫描机器二维码，即可绑定使用。\n
+            ⑤本机信息：可查看本机制造商、版本号、操作系统。\n
+            ⑥使用向导：帮您迅速了解本机相关操作，祝您使用愉快！\n
+    </string>
+
+    <!--app下载地址-->
+    <string name="app_download_url">http://cloud.kidknow.net:8888/appdoc/download.html</string>
+
+    <!--扫二维码提示-->
+    <string name="scan_conn_desc">
+        <Data><![CDATA[请登录小淘同学APP，进入我的机器人界面，点击<font color="#5bd2fa">“网络”</font>进行设置，机器人扫描二维码即可连接网络]]></Data>
+    </string>
+
+    <!--闹钟动画播放的标识-->
+    <string name="flag_play_gif_alarm">flag_play_gif_alarm_jgw</string>
+    <!--欢迎界面动画的标识-->
+    <string name="flag_play_gif_welcome">flag_play_gif_welcome_jgw</string>
+</resources>

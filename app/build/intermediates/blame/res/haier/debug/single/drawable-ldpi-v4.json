@@ -1,0 +1,822 @@
+[
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_nine.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_nine.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_grandmother.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_grandmother.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_grandmother.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_grandmother.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_1_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\img_gsmintensity_1_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_right_3.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_right_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_turn_off.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_turn_off.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_shake.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_shake.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_tick.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_tick.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_3.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_gsmintensity_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_orange.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_orange.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_pear.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_pear.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_pear.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_pear.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_btn_translation.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_btn_translation.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_cat_spaw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_cat_spaw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\deletebox_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\deletebox_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_peach.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_peach.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_ten.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_ten.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_fore.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_fore.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_lemon.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_lemon.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_manual_conn.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_manual_conn.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\image_head.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\image_head.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_repeat_off.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_left_4.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_left_4.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_right_1.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_right_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_phone_answer.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_phone_answer.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_album_taking_pic.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_album_taking_pic.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_wifi_2.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_wifi_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_phone_refuse.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_phone_refuse.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_banana.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_banana.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_right_5.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_right_5.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_zero.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_zero.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_lion.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_lion.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_lion.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_lion.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_connect_wifi_3.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_connect_wifi_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_photodelete.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_photodelete.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_repeat_all.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_seven.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_seven.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_fish.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_fish.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_turn_on.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_turn_on.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\deletethebox_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\deletethebox_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_mongo.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_mongo.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_mobile_conn.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_mobile_conn.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_fox.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_fox.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_shake_botton.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_shake_botton.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_1.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_gsmintensity_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_bellset.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_bellset.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_keyboarddelete.png",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon_keyboarddelete.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_play.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_play.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_six.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_six.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_cat.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_cat.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_call_dial.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_call_dial.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func1_read.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func1_read.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_btn_followme_replay.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_btn_followme_replay.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_chat_default_avatar.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_chat_default_avatar.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_fullscreen_enter.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_six.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_six.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_nursery_rhymes.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_nursery_rhymes.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_chat_video.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_chat_video.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_peach.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_peach.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_lemon.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_lemon.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_father.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_father.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_wifi_0.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_wifi_0.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_orange.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_orange.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\bg2.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\bg2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\cancelbox_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\cancelbox_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_grandma.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_grandma.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_turn_off.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_turn_off.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_connect_wifi_1.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_connect_wifi_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_country_learn.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_country_learn.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_group.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_group.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_fox.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_fox.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func1_album.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func1_album.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_brother.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_brother.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_battery_lightning.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_battery_lightning.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_monkey.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_monkey.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_wireless_upgrade.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_wireless_upgrade.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_image_load_fail.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_image_load_fail.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_sister.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_sister.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func1_setting.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func1_setting.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_previous.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_previous.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_mobilenetworkset.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_mobilenetworkset.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_capital.png",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon_capital.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_3_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\img_gsmintensity_3_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_eight.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_eight.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_phone.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_phone.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func1_play.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func1_play.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\cancelbox.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\cancelbox.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_wifi_1.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_wifi_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_two.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_two.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_sister.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_sister.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_story.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_story.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_seven.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_seven.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_connect_wifi_2.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_connect_wifi_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_one.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_one.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_edit_mode_logo.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_apple.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_apple.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_aunt.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_aunt.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_sys_voice.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_sys_voice.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_scan_conn.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_scan_conn.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_right_2.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_right_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_watermelon.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_watermelon.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func1_phone.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func1_phone.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_left_5.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_left_5.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_fullscreen_exit.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_three.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_three.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_banana.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_banana.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_five.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_five.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_phonedelete.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_phonedelete.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_monkey.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_monkey.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_untick.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_untick.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_one.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_one.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_keyboarddetermine.png",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon_keyboarddetermine.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_uncle.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_uncle.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_mongo.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_mongo.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_connect_wifi.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_connect_wifi.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func1_study.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func1_study.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_pause.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_pause.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_chat_voice.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_chat_voice.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_safety_education.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_safety_education.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_right_4.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_right_4.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_2.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_gsmintensity_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_grapes.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_grapes.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_father.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_father.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_delete_success.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_delete_success.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\bg_photoborder.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\bg_photoborder.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_shuffle.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_download.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_download.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_brother.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_brother.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_left_3.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_left_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animall_tiger.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animall_tiger.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_watermelon.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_watermelon.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_horse.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_horse.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_five.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_five.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_duck.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_duck.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_fish.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_fish.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_duck.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_duck.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_mobile_conn.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_mobile_conn.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_next.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_next.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_house.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_house.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_wifi_3.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_wifi_3.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_brightset.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_brightset.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_4.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_gsmintensity_4.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_image_loading.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_image_loading.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_two.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_two.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_2_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\img_gsmintensity_2_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_picture_book.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_picture_book.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_zero.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_zero.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_eight.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_eight.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_english_study.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_english_study.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_home_page.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_voice_home_page.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_call_contact.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_call_contact.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_poetry_recite.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_poetry_recite.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_panda.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_panda.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_strawberry.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_strawberry.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_uncle.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_uncle.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func2_anim.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func2_anim.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_chat_video_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_chat_video_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_grandpa.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_grandpa.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_apple.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_apple.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_aunt.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_aunt.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_shake_top.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_shake_top.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_mother.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_mother.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_grandpa.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_grandpa.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_dog.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_dog.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_nine.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_nine.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_message.png",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon_message.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_grandpa2.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_grandpa2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_grandfather.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_grandfather.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_left_1.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_left_1.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_fore.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_fore.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_4_jgw.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\img_gsmintensity_4_jgw.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_tiger.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_tiger.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_card_strawberry.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_card_strawberry.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_three.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_three.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_cat.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_cat.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_lowercase.png",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon_lowercase.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_func1_chat.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_func1_chat.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_mother.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_mother.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_head_other.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_head_other.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\bg.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\bg.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_voice_left_2.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_voice_left_2.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_dog.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_dog.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\img_gsmintensity_0.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\img_gsmintensity_0.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_grandma.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_grandma.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_repeat_one.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_num_card_ten.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_num_card_ten.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_machineinfor.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_machineinfor.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\deletethebox.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\deletethebox.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_customer_other.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_customer_other.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_using_wizard.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_using_wizard.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\bg_home.jpg",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\bg_home.jpg"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_time.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_time.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_fruit_grapes.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_fruit_grapes.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_follow_me_know_animal_card_panda.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\icon_follow_me_know_animal_card_panda.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\icon_setting_wifi.png",
+        "source": "G:\\project\\Robot\\app\\src\\haier\\res\\drawable-ldpi\\icon_setting_wifi.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\deletebox.png",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable-ldpi\\deletebox.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\haier\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.1.aar\\944423e94bb8f42f43986bd310814060\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    }
+]

@@ -1,0 +1,128 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="splash_style" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Anim_fade" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowAnimationStyle">@style/fade</item>
+    </style>
+
+    <style name="fade" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/out_to_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/in_from_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/out_to_right</item>
+    </style>
+
+    <style name="dial_btn_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">@dimen/text_size_50</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_25</item>
+    </style>
+
+    <style name="Dialogstyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <!-- 显示对话框时当前的屏幕是否变暗 -->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="Theme_audioDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+
+    <style name="transparent" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@color/transparent_half</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+    <!--输入样式-->
+    <style name="layout_input_amount_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginBottom">@dimen/text_size_1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <!--键盘数字-->
+    <style name="btn_input_amount_style" parent="btn_input_amount_style_common">
+        <item name="android:background">@drawable/selector_num_keyboard</item>
+        <item name="android:textColor">@color/common_color</item>
+    </style>
+
+    <!--键盘数字 金国威-->
+    <style name="btn_input_amount_style_jgw" parent="btn_input_amount_style_common">
+        <item name="android:background">@drawable/selector_keyboard_num_jgw</item>
+        <item name="android:textColor">@color/common_color</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="btn_input_amount_style_common">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/text_size_22</item>
+    </style>
+
+    <style name="btn2_input_amount_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/selector_num_keyboard</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="btn2_input_amount_style_jgw">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/selector_keyboard_num_jgw</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+    <style name="style_phone_keyboard_vertical">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/common_call_phone_keyboard_line_color</item>
+    </style>
+    <style name="style_phone_keyboard_horizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/common_call_phone_keyboard_line_color</item>
+    </style>
+
+</resources>

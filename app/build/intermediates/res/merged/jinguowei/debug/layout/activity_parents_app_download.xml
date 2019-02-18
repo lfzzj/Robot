@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg"
+    android:background="@drawable/bg2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/layout_title" />
+
+    <com.hamitao.framework.widgets.MarqueTextView
+        android:id="@+id/tv_parents_app_download"
+        style="@style/text_white_style"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/text_size_10"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginRight="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/text_size_40"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="@string/tv_parents_app_download_hint"
+        android:textSize="@dimen/text_size_22" />
+
+    <ImageView
+        android:id="@+id/iv_parents_app_download_code"
+        android:layout_width="@dimen/text_size_140"
+        android:layout_height="@dimen/text_size_140"
+        android:layout_below="@+id/tv_parents_app_download"
+        android:layout_marginLeft="@dimen/text_size_25"
+        android:background="@drawable/shape_small_label" />
+
+    <RelativeLayout
+        android:id="@+id/rl_parents_app_download_next"
+        android:layout_width="@dimen/text_size_80"
+        android:layout_height="@dimen/text_size_140"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tv_parents_app_download"
+        android:layout_marginRight="@dimen/text_size_25"
+        android:background="@drawable/shape_small_labe_blue">
+
+
+        <TextView
+            android:id="@+id/tv_parents_app_download_next"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:ems="1"
+            android:gravity="center"
+            android:text="@string/tv_next"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_20" />
+
+    </RelativeLayout>
+</RelativeLayout>

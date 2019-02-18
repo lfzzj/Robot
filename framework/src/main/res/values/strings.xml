@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Framework</string>
+
+    <string name="scan_text">扫一扫</string>
+
+    <string name="viewfinderview_status_text1">将二维码/条码放入取景框内</string>
+    <string name="viewfinderview_status_text2">即可自动扫描</string>
+
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="button_ok">OK</string>
+    <string name="scan_success">扫描成功</string>
+
+    <string name="ok">好的</string>
+    <!--<string name="wake_up_word">小陶同学</string>-->
+
+    <string name="oem_key_code_action"></string>
+    <string name="oem_code"></string>
+
+    <string name="meid" msgid="6210568493746275750">MEID</string>
+    <string name="imei" msgid="3045126336951684285">IMEI</string>
+
+    <string name="firmware_version" >1.0</string>
+
+    <string name="letter">字母</string>
+    <string name="num">数字</string>
+    <string name="symbol">符号</string>
+
+    <string name="p_input_psw">请输入密码</string>
+
+</resources>

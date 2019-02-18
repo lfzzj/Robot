@@ -1,0 +1,50 @@
+apply plugin: 'com.android.library'
+
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion '27.0.3'
+
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+//    buildTypes {
+//        release {
+//            minifyEnabled false
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//        }
+//    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+}
+
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //    compile project(':jpush')
+    compile project(':RequestFrame')
+    //    implementation files('libs/AISpeech-SDK-for-Android-2.1.7-fix.jar')
+    implementation files('libs/AISpeech-SDK-for-Android-2.1.7-zhanxun-fix.jar')
+
+//    compile(name: 'tts-release', ext: 'aar')
+    //图灵
+    compile(name: 'authority-release', ext: 'aar')
+    //语意解析
+    compile(name: 'semantic-release', ext: 'aar')
+    compile(name: 'common-release', ext: 'aar')
+    compile(name: 'sdkhttp', ext: 'aar')
+
+}

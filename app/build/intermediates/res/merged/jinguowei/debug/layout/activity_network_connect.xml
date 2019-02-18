@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg2"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/layout_title" />
+
+        <TextView
+            android:id="@+id/tv_skip"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/text_size_10"
+            android:layout_marginTop="@dimen/text_size_5"
+            android:textSize="@dimen/text_size_18"
+            android:textColor="@color/receive_text_color"
+            android:text="@string/skip" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_net_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/text_size_25"
+        android:layout_marginTop="@dimen/text_size_50"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/text_size_5"
+            android:background="@drawable/icon_connect_wifi" />
+
+        <TextView
+            android:id="@+id/tv_net_name"
+            style="@style/text_white_style"
+            android:layout_marginLeft="@dimen/text_size_18"
+            android:text="@string/hint_no_net"
+            android:textSize="@dimen/text_size_20" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_net_name"
+        android:layout_marginTop="@dimen/text_size_30">
+
+        <com.hamitao.kids.widgets.NetConnWayView
+            android:id="@+id/view_scan_conn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0" />
+
+        <com.hamitao.kids.widgets.NetConnWayView
+            android:id="@+id/view_manual_conn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0" />
+
+        <com.hamitao.kids.widgets.NetConnWayView
+            android:id="@+id/view_mobile_network"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:visibility="gone" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

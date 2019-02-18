@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <RelativeLayout
+        android:id="@+id/rl_turn_off"
+        android:layout_width="200dp"
+        android:layout_height="140dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/deletethebox">
+
+        <ImageView
+            android:id="@+id/iv_cat_paw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/icon_cat_spaw" />
+
+        <TextView
+            android:id="@+id/tv_turn_off"
+            style="@style/text_white_style"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="25dp"
+            android:layout_toRightOf="@+id/iv_cat_paw"
+            android:text="@string/turn_off_sure"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            style="@style/text_white_style"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/cancelbox"
+            android:text="@string/cancel" />
+        <Button
+            android:id="@+id/btn_confirm"
+            style="@style/text_white_style"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/deletebox"
+            android:text="@string/confirm" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_color_apple">#fdbebe</color>
+    <color name="base_color_banana">#fee2fd</color>
+    <color name="base_color_cat">#ffb8b8</color>
+    <color name="base_color_dog">#fff1b2</color>
+    <color name="base_color_duck">#b5fdf4</color>
+    <color name="base_color_eight">#97c8ff</color>
+    <color name="base_color_fish">#ffdcfe</color>
+    <color name="base_color_five">#d6f5c7</color>
+    <color name="base_color_fore">#ffe2aa</color>
+    <color name="base_color_fox">#ddc8f0</color>
+    <color name="base_color_grapes">#ddc8f0</color>
+    <color name="base_color_horse">#a8e3ff</color>
+    <color name="base_color_lemon">#b5fdf4</color>
+    <color name="base_color_lion">#ffe2aa</color>
+    <color name="base_color_mongo">#a8e3ff</color>
+    <color name="base_color_monkey">#d6f5c7</color>
+    <color name="base_color_nine">#fdd7be</color>
+    <color name="base_color_one">#f0ffcf</color>
+    <color name="base_color_orange">#92c5ff</color>
+    <color name="base_color_panda">#efceff</color>
+    <color name="base_color_peach">#ffe2aa</color>
+    <color name="base_color_pear">#fbffcf</color>
+    <color name="base_color_seven">#b5fdf4</color>
+    <color name="base_color_six">#ddc8f0</color>
+    <color name="base_color_strawberry">#fff1b2</color>
+    <color name="base_color_ten">#ffcbcb</color>
+    <color name="base_color_three">#a8e3ff</color>
+    <color name="base_color_tiger">#92c5ff</color>
+    <color name="base_color_two">#fff3bb</color>
+    <color name="base_color_watermelon">#fee2fd</color>
+    <color name="base_color_zero">#fee2fd</color>
+    <color name="black">#000000</color>
+    <color name="blue">#4BCBBC</color>
+    <color name="blue_app">#5cd3fa</color>
+    <color name="blue_color">#89e0ff</color>
+    <color name="btn_check">#0dc1f0</color>
+    <color name="btn_check_jgw">#006a69</color>
+    <color name="btn_scan_conn">#5bd2fa</color>
+    <color name="btn_uncheck">#009cc5</color>
+    <color name="btn_uncheck_jgw">#00504f</color>
+    <color name="chat_bg_color">#323232</color>
+    <color name="gray">#A8A8A8</color>
+    <color name="jinguowei_color">#006a69</color>
+    <color name="jinguowei_power_color">#bcff6b</color>
+    <color name="keyboard_btn_bg">#305069</color>
+    <color name="keyboard_btn_bg_press">#00504f</color>
+    <color name="keyboard_item_jgw">#598a1c</color>
+    <color name="line_color">#353b59</color>
+    <color name="num_bg_color">#95e9ff</color>
+    <color name="num_bg_color_jgw">#03232e</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="receive_text_color">#ff7781</color>
+    <color name="red">#ff0000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_half">#50000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="water_circle">#5bafff</color>
+    <color name="water_grain">#64d6ff</color>
+    <color name="white">#ffffff</color>
+    <color name="wifi_text_color">#017ee9</color>
+    <declare-styleable name="CustomTheme"><attr format="reference" name="gifViewStyle"/></declare-styleable>
+    <declare-styleable name="GifView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <string name="app_name">Framework</string>
+    <string name="button_ok">OK</string>
+    <string name="firmware_version">1.0</string>
+    <string msgid="3045126336951684285" name="imei">IMEI</string>
+    <string name="letter">字母</string>
+    <string msgid="6210568493746275750" name="meid">MEID</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="num">数字</string>
+    <string name="oem_code"/>
+    <string name="oem_key_code_action"/>
+    <string name="ok">好的</string>
+    <string name="p_input_psw">请输入密码</string>
+    <string name="scan_success">扫描成功</string>
+    <string name="scan_text">扫一扫</string>
+    <string name="symbol">符号</string>
+    <string name="viewfinderview_status_text1">将二维码/条码放入取景框内</string>
+    <string name="viewfinderview_status_text2">即可自动扫描</string>
+    <style name="CustomDialogStyle" parent="@android:style/Theme.Dialog">
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@color/transparent</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 背景模糊 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 允许对话框的背景变暗 -->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Widget_GifView">
+
+    </style>
+    <style name="remind_dialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="seekbar_style" parent="@android:style/Widget.SeekBar">
+        <item name="android:minHeight">6dp</item>
+        <item name="android:maxHeight">6dp</item>
+        <item name="android:progressDrawable">@drawable/progress_horizotal</item>
+        <item name="android:thumb">@drawable/seek_bar_thumb</item>
+    </style>
+    <style name="style_keyboard_bg" parent="style_keyboard_bg_common">
+        <item name="android:background">@drawable/selector_keyboard</item>
+    </style>
+    <style name="style_keyboard_bg_common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+    <style name="style_keyboard_bg_jgw" parent="style_keyboard_bg_common">
+        <item name="android:background">@drawable/selector_keyboard_jgw</item>
+    </style>
+    <style name="text_black_style" parent="text_style">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_18</item>
+    </style>
+    <style name="text_white_style" parent="text_style">
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:typeface">sans</item>-->
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

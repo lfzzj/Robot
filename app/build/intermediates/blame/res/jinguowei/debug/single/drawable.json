@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_poke_face.gif",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\anim_emoji_poke_face.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shape_small_labe_blue.xml",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\shape_small_labe_blue.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\aurora_anim_send_voice.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable\\aurora_anim_send_voice.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bg_item_keyboard_press_jgw.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_keyboard_press_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bg_item_num_keyboard_jgw.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_num_keyboard_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\selector_keyboard.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\camera_focus.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\camera_focus.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\selector_btn_click_bg.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\selector_btn_click_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\seek_bar_thumb.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\seek_bar_thumb.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\progress_horizotal.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_horizotal.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\line_keyboard_jgw.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\line_keyboard_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\selector_btn_chat_jgw.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\selector_btn_chat_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\selector_num_keyboard.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_num_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_normal.gif",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\anim_emoji_normal.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\scan_light.png",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\scan_light.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_normal_j.gif",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\anim_emoji_normal_j.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shap_eyes.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\shap_eyes.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\selector_btn_bg.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\selector_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\my_cursor_keyboard.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\my_cursor_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_poke_face_j.gif",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\anim_emoji_poke_face_j.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\aurora_bg_video.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable\\aurora_bg_video.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\selector_keyboard_jgw.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_keyboard_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\seekbar_background.9.png",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\seekbar_background.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\my_cursor.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\my_cursor.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\seek_bar_voice_bg.xml",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\seek_bar_voice_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bga_adapter_white_gray.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-adapter-1.1.9.aar\\3ab9c647718608a77cf06adcd21543b1\\res\\drawable\\bga_adapter_white_gray.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_dizzy_jgw_j.gif",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\anim_emoji_dizzy_jgw_j.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_welcome_haier.gif",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\anim_welcome_haier.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\aurora_anim_receive_voice.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable\\aurora_anim_receive_voice.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\line_keyboard.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\line_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_dizzy_jgw.gif",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\anim_emoji_dizzy_jgw.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shape_small_label.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\shape_small_label.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\seek_bar_voice_circle.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\seek_bar_voice_circle.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bg_item_num_keyboard_press.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_num_keyboard_press.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_poke_eyes.gif",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\anim_emoji_poke_eyes.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\selector_keyboard_num_jgw.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_keyboard_num_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bga_sbl_shadow.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-swipebacklayout-1.2.0.aar\\aaf070eeaf9c19c95900e01996484e1c\\res\\drawable\\bga_sbl_shadow.9.png"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shape_label_btn_chat.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\shape_label_btn_chat.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_device_listen_j.gif",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\anim_emoji_device_listen_j.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bg_item_num_keyboard_press_jgw.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_num_keyboard_press_jgw.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\aurora_bg_event_message.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable\\aurora_bg_event_message.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bg_item_num_keyboard.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_num_keyboard.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shape_wifi_psw_cursor.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_wifi_psw_cursor.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shape_phone_cursor.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_phone_cursor.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shape_scan_conn.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\shape_scan_conn.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\shape_label_btn_chat_press.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\shape_label_btn_chat_press.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_device_listen.gif",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\anim_emoji_device_listen.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\progress_anim.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\progress_anim.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_emoji_device_talk.gif",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\anim_emoji_device_talk.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\anim_receive_new_msg.gif",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\anim_receive_new_msg.gif"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\aurora_bg_conv_msg_count.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\messagelist-0.7.2.aar\\6124c1a005af8a424be4801cb9f787cf\\res\\drawable\\aurora_bg_conv_msg_count.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\line.xml",
+        "source": "G:\\project\\Robot\\app\\src\\jinguowei\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f257ee65da4bcbca61921ad9281e944b\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bga_adapter_divider_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-adapter-1.1.9.aar\\3ab9c647718608a77cf06adcd21543b1\\res\\drawable\\bga_adapter_divider_shape.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\unread_read_point.xml",
+        "source": "G:\\project\\Robot\\app\\src\\main\\res\\drawable\\unread_read_point.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ce74db6c18398afc3fd308dcee45ac87\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7f83161cb47d5901c1fada7e12f7fb9f\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\project\\Robot\\app\\build\\intermediates\\res\\merged\\jinguowei\\debug\\drawable\\bg_item_keyboard_jgw.xml",
+        "source": "G:\\project\\Robot\\framework\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_item_keyboard_jgw.xml"
+    }
+]

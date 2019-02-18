@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_1">1dp</dimen>
+    <dimen name="text_size_1_2">1.9dp</dimen>
+    <dimen name="text_size_2">2dp</dimen>
+    <dimen name="text_size_3">3dp</dimen>
+    <dimen name="text_size_4">4dp</dimen>
+    <dimen name="text_size_5">5dp</dimen>
+    <dimen name="text_size_6">6dp</dimen>
+    <dimen name="text_size_8">8dp</dimen>
+    <dimen name="text_size_9">9dp</dimen>
+    <dimen name="text_size_8_5">8.5dp</dimen>
+
+    <dimen name="text_size_10">10dp</dimen>
+    <dimen name="text_size_12">12dp</dimen>
+    <dimen name="text_size_14">14dp</dimen>
+    <dimen name="text_size_15">15dp</dimen>
+    <dimen name="text_size_16">24dp</dimen>
+    <dimen name="text_size_17">17dp</dimen>
+    <dimen name="text_size_16_5">16.5dp</dimen>
+    <dimen name="text_size_18">22dp</dimen>
+    <dimen name="text_size_19_5">19.5dp</dimen>
+
+    <dimen name="text_size_20">26dp</dimen>
+    <dimen name="text_size_22">30dp</dimen>
+    <dimen name="text_size_24">24dp</dimen>
+    <dimen name="text_size_24_5">24.5dp</dimen>
+    <dimen name="text_size_25">30dp</dimen>
+
+    <dimen name="text_size_30">45dp</dimen>
+    <dimen name="text_size_32">32dp</dimen>
+    <dimen name="text_size_35">35dp</dimen>
+
+    <dimen name="text_size_40">60dp</dimen>
+    <dimen name="text_size_42">42dp</dimen>
+    <dimen name="text_size_45">60dp</dimen>
+
+    <dimen name="text_size_50">75dp</dimen>
+    <dimen name="text_size_55">55dp</dimen>
+    <dimen name="text_size_58">58dp</dimen>
+
+    <dimen name="text_size_60">60dp</dimen>
+    <dimen name="text_size_62">62dp</dimen>
+    <dimen name="text_size_64">64dp</dimen>
+    <dimen name="text_size_70">70dp</dimen>
+
+    <dimen name="text_size_74">74dp</dimen>
+    <dimen name="text_size_75">75dp</dimen>
+    <dimen name="text_size_80">60dp</dimen>
+    <dimen name="text_size_90">90dp</dimen>
+
+    <dimen name="text_size_100">100dp</dimen>
+    <dimen name="text_size_109">109dp</dimen>
+    <dimen name="text_size_110">110dp</dimen>
+    <dimen name="text_size_120">120dp</dimen>
+    <dimen name="text_size_130">130dp</dimen>
+    <dimen name="text_size_140">180dp</dimen>
+
+    <dimen name="text_size_150">200dp</dimen>
+    <dimen name="text_size_160">160dp</dimen>
+    <dimen name="text_size_180">200dp</dimen>
+    <dimen name="text_size_200">200dp</dimen>
+    <dimen name="text_size_220">220dp</dimen>
+    <dimen name="text_size_450">450dp</dimen>
+
+    <dimen name="text_size_sp_16">16sp</dimen>
+
+    <!--首页时间的字体大小-->
+    <dimen name="text_size_home_time">70dp</dimen>
+    <!--设置的功能区的字体大小-->
+    <dimen name="text_size_setting_common_func">35dp</dimen>
+    <!--弹框电量的字体大小-->
+    <dimen name="text_size_battery_value">30dp</dimen>
+    <!--wifi列表页title的字体大小-->
+    <dimen name="text_size_wifi_list_title">30dp</dimen>
+    <!--wifi列表的标题的字体大小-->
+    <dimen name="text_size_wifi_list_item_name">30dp</dimen>
+    <!--本机信息-->
+    <dimen name="text_size_local_info">32dp</dimen>
+
+    <dimen name="text_size_call_name">30dp</dimen>
+
+
+    <!--首页时间的高-->
+    <dimen name="height_home_time">100dp</dimen>
+    <!--标题的高-->
+    <dimen name="height_title">60dp</dimen>
+    <!--拍照按钮的宽高-->
+    <dimen name="wh_camera_btn">85dp</dimen>
+
+    <!--相册照片的宽高-->
+    <dimen name="w_album_photo">140dp</dimen>
+    <dimen name="h_album_photo">140dp</dimen>
+
+    <dimen name="w_album_relative_photo">160dp</dimen>
+    <dimen name="h_album_relative_photo">120dp</dimen>
+
+    <dimen name="margin_item_album">5dp</dimen>
+
+    <dimen name="w_iv_pic_viewer">320dp</dimen>
+    <dimen name="h_iv_pic_viewer">240dp</dimen>
+
+
+    <!--主页状态栏的高-->
+    <dimen name="h_hone_status_bar">30dp</dimen>
+    <!--单个WiFi的高-->
+    <dimen name="h_wifi_singer">80dp</dimen>
+    <!--已连wifi的宽-->
+    <dimen name="w_wifi_connect">100dp</dimen>
+    <!--wifi列表的宽-->
+    <dimen name="w_wifi_list_item">150dp</dimen>
+    <!--主界面声音按钮-->
+    <dimen name="wh_main_voice">100dp</dimen>
+
+    <dimen name="wh_video_chat_head">100dp</dimen>
+
+    <!--拍照的宽高-->
+    <dimen name="w_camera_surface">320dp</dimen>
+    <dimen name="h_camera_surface">240dp</dimen>
+
+    <!--marginTop标题的距离-->
+    <dimen name="margin_top_title">70dp</dimen>
+
+    <!--首页电池电量显示距left top 的边距-->
+    <dimen name="margin_left_battery_view">3dp</dimen>
+    <dimen name="margin_top_battery_view">4dp</dimen>
+
+    <dimen name="margin_top_main_status">8dp</dimen>
+</resources>

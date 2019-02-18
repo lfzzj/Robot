@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\project\Robot\AISpeech\src\main\jniLibs"><file name="armeabi/libaiengine.so" path="G:\project\Robot\AISpeech\src\main\jniLibs\armeabi\libaiengine.so"/><file name="armeabi/liblame.so" path="G:\project\Robot\AISpeech\src\main\jniLibs\armeabi\liblame.so"/></source></dataSet><dataSet config="debug"><source path="G:\project\Robot\AISpeech\src\debug\jniLibs"/></dataSet></merger>

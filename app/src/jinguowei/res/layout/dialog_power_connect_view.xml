@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_battery_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <RelativeLayout
+        android:id="@+id/rl_battery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingLeft="20dp"
+        android:layout_marginRight="@dimen/text_size_15">
+
+        <ImageView
+            android:id="@+id/iv_battery_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_battery_charging_jgw" />
+
+        <com.hamitao.kids.widgets.BatteryViewSelf
+            android:id="@+id/battery_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/text_size_9"
+            android:layout_marginTop="@dimen/text_size_8" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_lightning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="@dimen/text_size_40"
+        android:layout_toRightOf="@+id/rl_battery"
+        android:background="@drawable/bg_battery_lightning" />
+
+    <TextView
+        android:id="@+id/tv_battery_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="@dimen/text_size_10"
+        android:layout_toLeftOf="@+id/rl_battery"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_battery_value" />
+
+
+</RelativeLayout>

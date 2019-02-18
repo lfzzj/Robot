@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_title">
+
+    <com.hamitao.framework.widgets.MarqueTextView
+        android:id="@+id/tv_title"
+        style="@style/text_white_style"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginRight="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/text_size_6"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:textSize="@dimen/text_size_25" />
+</RelativeLayout>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/text_size_20"
+        android:layout_marginTop="@dimen/text_size_20">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15">
+
+                <com.hamitao.kids.view.CommonFuncLayout
+                    android:id="@+id/rl_wifi"
+                    android:layout_width="@dimen/text_size_180"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true" />
+
+                <ImageView
+                    android:id="@+id/btn_switch_wifi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/text_size_6"
+                    android:background="@drawable/icon_turn_off"
+                    android:clickable="true" />
+
+                <com.hamitao.framework.widgets.MarqueTextView
+                    android:id="@+id/tv_conn_wifi_name"
+                    android:layout_width="@dimen/w_wifi_connect"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="marquee"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:singleLine="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/text_size_6"
+                    android:layout_toLeftOf="@+id/btn_switch_wifi"
+                    android:textColor="@color/common_conn_wifi_color"
+                    android:textSize="@dimen/text_size_20" />
+
+            </RelativeLayout>
+            <!--移动网络-->
+            <RelativeLayout
+                android:id="@+id/rl_switch_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15"
+                android:orientation="horizontal">
+
+                <com.hamitao.kids.view.CommonFuncLayout
+                    android:id="@+id/rl_setting_mobile"
+                    android:layout_width="@dimen/text_size_180"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:id="@+id/iv_switch_mobile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:clickable="true"
+                    android:layout_marginRight="@dimen/text_size_6"
+                    android:background="@drawable/icon_turn_off" />
+
+            </RelativeLayout>
+            <!--时间-->
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_setting_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+            <!--亮度设置-->
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_bright_setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+            <!--音量设置-->
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_volume_setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_app_download"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+            <!--本地铃声-->
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_setting_bellset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_local_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp" />
+
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_operating_video"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_wireless_upgrade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+
+            <!--关机-->
+            <com.hamitao.kids.view.CommonFuncLayout
+                android:id="@+id/rl_setting_turn_off"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_size_15" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg2"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/ll_title"
+        layout="@layout/layout_title" />
+
+    <LinearLayout
+        android:id="@+id/ll_progress"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/rl_minus"
+            android:layout_width="@dimen/text_size_50"
+            android:layout_height="@dimen/text_size_50" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/icon_sys_minus" />
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:id="@+id/rl_sys_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/text_size_50"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/text_size_10"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/iv_sys_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+
+        <SeekBar
+            android:id="@+id/seekbar"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@+id/rl_plus"
+            android:maxHeight="@dimen/text_size_10"
+            android:minHeight="@dimen/text_size_10"
+            android:progressDrawable="@drawable/seek_bar_voice_bg"
+            android:splitTrack="false"
+            android:thumb="@drawable/seek_bar_voice_circle" />
+
+        <RelativeLayout
+            android:id="@+id/rl_plus"
+            android:layout_width="@dimen/text_size_50"
+            android:layout_height="@dimen/text_size_50"
+            android:layout_alignParentRight="true"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/icon_sys_plus" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_cur_value"
+        style="@style/text_white_style"
+        android:layout_below="@+id/ll_progress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/text_size_5"
+        android:textSize="@dimen/text_size_25" />
+
+
+</RelativeLayout>

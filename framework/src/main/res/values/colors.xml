@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="water_circle">#5bafff</color>
+    <color name="water_grain">#64d6ff</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#A8A8A8</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_half">#50000000</color>
+
+    <color name="keyboard_item_jgw">#598a1c</color>
+
+    <color name="blue_color">#89e0ff</color>
+
+    <color name="wifi_text_color">#017ee9</color>
+
+    <!--scan-->
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <!-- Android standard ICS color -->
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="line_color">#353b59</color>
+
+    <color name="receive_text_color">#ff7781</color>
+
+    <color name="blue_app">#5cd3fa</color>
+    <color name="chat_bg_color">#323232</color>
+
+    <color name="jinguowei_color">#006a69</color>
+    <color name="jinguowei_power_color">#bcff6b</color>
+
+    <color name="blue">#4BCBBC</color>
+    <color name="red">#ff0000</color>
+    
+    <color name="btn_check">#0dc1f0</color>
+    <color name="btn_uncheck">#009cc5</color>
+
+    <color name="num_bg_color">#95e9ff</color>
+    <color name="num_bg_color_jgw">#03232e</color>
+    <color name="btn_scan_conn">#5bd2fa</color>
+
+    <color name="btn_check_jgw">#006a69</color>
+    <color name="btn_uncheck_jgw">#00504f</color>
+
+    <color name="keyboard_btn_bg">#305069</color>
+    <color name="keyboard_btn_bg_press">#00504f</color>
+
+    <!--动物-->
+    <color name="base_color_dog">#fff1b2</color>
+    <color name="base_color_monkey">#d6f5c7</color>
+    <color name="base_color_fox">#ddc8f0</color>
+    <color name="base_color_tiger">#92c5ff</color>
+    <color name="base_color_horse">#a8e3ff</color>
+    <color name="base_color_cat">#ffb8b8</color>
+    <color name="base_color_lion">#ffe2aa</color>
+    <color name="base_color_panda">#efceff</color>
+    <color name="base_color_duck">#b5fdf4</color>
+    <color name="base_color_fish">#ffdcfe</color>
+
+    <color name="base_color_zero">#fee2fd</color>
+    <color name="base_color_one">#f0ffcf</color>
+    <color name="base_color_two">#fff3bb</color>
+    <color name="base_color_three">#a8e3ff</color>
+    <color name="base_color_fore">#ffe2aa</color>
+    <color name="base_color_five">#d6f5c7</color>
+    <color name="base_color_six">#ddc8f0</color>
+    <color name="base_color_seven">#b5fdf4</color>
+    <color name="base_color_eight">#97c8ff</color>
+    <color name="base_color_nine">#fdd7be</color>
+    <color name="base_color_ten">#ffcbcb</color>
+
+    <color name="base_color_strawberry">#fff1b2</color>
+    <color name="base_color_orange">#92c5ff</color>
+    <color name="base_color_mongo">#a8e3ff</color>
+    <color name="base_color_lemon">#b5fdf4</color>
+    <color name="base_color_apple">#fdbebe</color>
+    <color name="base_color_grapes">#ddc8f0</color>
+    <color name="base_color_peach">#ffe2aa</color>
+    <color name="base_color_watermelon">#fee2fd</color>
+    <color name="base_color_banana">#fee2fd</color>
+    <color name="base_color_pear">#fbffcf</color>
+</resources>

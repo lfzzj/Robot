@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--应用内主色调-->
+    <color name="common_color">#ffffff</color>
+    <!--首页颜色-->
+    <color name="common_main_color">#000000</color>
+
+    <!--按钮颜色-->
+    <color name="common_btn_color">#000000</color>
+
+
+
+    <!--按钮的颜色选择器-->
+    <color name="common_btn_checked_color">#006a69</color>
+    <color name="common_btn_unchecked_color">#00504f</color>
+
+    <!--首页电量值的颜色-->
+    <color name="common_main_power_value_color">#000000</color>
+
+    <!--设置-WiFi名称颜色-->
+    <color name="common_conn_wifi_color">#017ee9</color>
+
+    <!--键盘的分割线-->
+    <color name="common_call_phone_keyboard_line_color">#000000</color>
+    <!--键盘电话号码的背景-->
+    <color name="common_call_phone_keyboard_bg_color">#00000000</color>
+</resources>

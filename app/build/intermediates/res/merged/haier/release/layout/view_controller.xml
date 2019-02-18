@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.hamitao.framework.widgets.MarqueTextView
+        android:id="@+id/tv_media_title"
+        style="@style/text_white_style"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_size_25"
+        android:visibility="gone"
+        android:ellipsize="marquee"
+        android:background="@color/transparent_half"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:textSize="@dimen/text_size_20" />
+
+    <RelativeLayout
+        android:id="@+id/rl_controller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--音量调节-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/text_size_10"
+            android:layout_marginRight="@dimen/text_size_10"
+            android:visibility="gone"
+            android:layout_marginTop="@dimen/text_size_35"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/ibtn_voice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/icon_sys_voice" />
+
+            <SeekBar
+                android:id="@+id/sb_voice"
+                style="@style/seekbar_style"
+                android:layout_width="match_parent"
+                android:splitTrack="false"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+        <!--下一首/暂停/播放/上一首-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <ImageButton
+                android:id="@+id/ib_media_previous"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/icon_previous" />
+
+
+            <ImageButton
+                android:id="@+id/ib_media_pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_size_20"
+                android:layout_toRightOf="@+id/iv_media_previous"
+                android:background="@drawable/icon_pause"
+                android:clickable="true" />
+
+
+            <ImageButton
+                android:id="@+id/ib_media_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/iv_media_pause"
+                android:background="@drawable/icon_next"
+                android:clickable="true" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/transparent_half"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_cur_time"
+                style="@style/text_white_style"
+                android:layout_marginLeft="@dimen/text_size_6"
+                android:text="00:00" />
+
+            <SeekBar
+                android:id="@+id/sb_video"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_size_5"
+                style="@style/seekbar_style"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tv_total_time"
+                style="@style/text_white_style"
+                android:layout_marginRight="@dimen/text_size_6"
+                android:text="00:00" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

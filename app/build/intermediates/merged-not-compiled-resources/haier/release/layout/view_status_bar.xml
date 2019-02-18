@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--信号-->
+    <ImageView
+        android:id="@+id/iv_state_signal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/margin_top_main_status" />
+
+    <TextView
+        android:id="@+id/tv_providers_name"
+        style="@style/text_style"
+        android:textColor="@color/common_main_color"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/text_size_2"
+        android:layout_toRightOf="@id/iv_state_signal"
+        android:textSize="@dimen/text_size_16" />
+
+    <!--wifi信号-->
+    <ImageView
+        android:id="@+id/iv_state_wifi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/margin_top_main_status"
+        android:layout_toRightOf="@id/tv_providers_name"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_state_wifi"
+        style="@style/text_style"
+        android:textColor="@color/common_main_color"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/text_size_2"
+        android:layout_toRightOf="@id/tv_providers_name"
+        android:textSize="@dimen/text_size_16"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_state_battery"
+        style="@style/text_style"
+        android:textColor="@color/common_main_color"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/text_size_3"
+        android:layout_marginTop="@dimen/text_size_2"
+        android:layout_toLeftOf="@+id/view_battery"
+        android:textSize="@dimen/text_size_16" />
+
+    <RelativeLayout
+        android:id="@+id/view_battery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/margin_top_main_status"
+        android:layout_toLeftOf="@+id/iv_battery_lightning">
+
+        <ImageView
+            android:id="@+id/iv_battery_mian_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_battery_mian_bg" />
+
+        <com.hamitao.kids.widgets.BatteryViewSelfMain
+            android:id="@+id/battery_view_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left_battery_view"
+            android:layout_marginTop="@dimen/margin_top_battery_view" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_battery_lightning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/margin_top_main_status"
+        android:layout_toLeftOf="@+id/tv_view"
+        android:background="@drawable/icon_battery_lightning"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:layout_centerVertical="true"
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>

@@ -1,0 +1,416 @@
+# view res/layout/design_bottom_navigation_item.xml #generated:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_layout_snackbar_include.xml #generated:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/design_bottom_sheet_dialog.xml #generated:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_func_two.xml #generated:6
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:44
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+# view watch-v20\res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+# view watch-v20\res/layout-watch-v20/abc_alert_dialog_title_material.xml #generated:44
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/activity_album.xml #generated:40
+# view res/layout/activity_content_tree.xml #generated:11
+# view res/layout/activity_content_tree_children.xml #generated:10
+# view res/layout/activity_customer.xml #generated:30
+# view res/layout/activity_local_bell.xml #generated:8
+# view res/layout/activity_wifi.xml #generated:38
+# view res/layout/dialog_recycler.xml #generated:2
+# view res/layout/fragment_contacts.xml #generated:5
+# view res/layout/view_keyboard.xml #generated:52
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:37
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+# view watch-v20\res/layout-watch-v20/abc_alert_dialog_title_material.xml #generated:53
+-keep class android.widget.Space { <init>(...); }
+
+# view res/layout/activity_chat.xml #generated:68
+-keep class cn.jiguang.imui.messages.MessageList { <init>(...); }
+
+# view res/layout/item_conversation.xml #generated:13
+# view res/layout/item_receive_photo.xml #generated:15
+# view res/layout/item_receive_txt.xml #generated:15
+# view res/layout/item_receive_video.xml #generated:15
+# view res/layout/item_receive_video.xml #generated:35
+# view res/layout/item_receive_voice.xml #generated:14
+# view res/layout/item_send_photo.xml #generated:65
+# view res/layout/item_send_text.xml #generated:63
+# view res/layout/item_send_video.xml #generated:16
+# view res/layout/item_send_video.xml #generated:42
+# view res/layout/item_send_voice.xml #generated:14
+-keep class cn.jiguang.imui.view.RoundImageView { <init>(...); }
+
+# view res/layout/item_event_message.xml #generated:9
+# view res/layout/item_receive_photo.xml #generated:6
+# view res/layout/item_receive_txt.xml #generated:6
+# view res/layout/item_receive_video.xml #generated:6
+# view res/layout/item_receive_voice.xml #generated:5
+# view res/layout/item_send_photo.xml #generated:6
+# view res/layout/item_send_text.xml #generated:6
+# view res/layout/item_send_video.xml #generated:7
+# view res/layout/item_send_voice.xml #generated:5
+-keep class cn.jiguang.imui.view.RoundTextView { <init>(...); }
+
+# view res/layout/item_receive_photo.xml #generated:28
+# view res/layout/item_send_photo.xml #generated:51
+-keep class cn.jiguang.imui.view.ShapeImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:409
+-keep class cn.jpush.android.service.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:379
+-keep class cn.jpush.android.service.DaemonService { <init>(...); }
+
+# view AndroidManifest.xml #generated:353
+-keep class cn.jpush.android.service.DataProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:412
+-keep class cn.jpush.android.service.DownloadProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:389
+-keep class cn.jpush.android.service.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:358
+-keep class cn.jpush.android.service.PushService { <init>(...); }
+
+# view res/layout/jpush_webview_layout.xml #generated:2
+-keep class cn.jpush.android.ui.FullScreenView { <init>(...); }
+
+# view AndroidManifest.xml #generated:362
+-keep class cn.jpush.android.ui.PopWinActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:366
+-keep class cn.jpush.android.ui.PushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:422
+-keep class cn.jpush.im.android.helpers.IMReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:427
+-keep class cn.jpush.im.android.helpers.ipc.IMProvider { <init>(...); }
+
+# view res/layout/activity_welcome.xml #generated:16
+# view res/layout/dialog_alarm_ring.xml #generated:17
+# view res/layout/view_face.xml #generated:14
+# view res/layout/view_loading.xml #generated:6
+# view res/layout/view_media_play_new.xml #generated:19
+# view res/layout/view_media_play_new.xml #generated:32
+-keep class com.airbnb.lottie.LottieAnimationView { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.amap.api.location.APSService { <init>(...); }
+
+# view res/layout/exo_simple_player_view.xml #generated:18
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(...); }
+
+# view res/layout/exo_playback_control_view.xml #generated:74
+-keep class com.google.android.exoplayer2.ui.DefaultTimeBar { <init>(...); }
+
+# view res/layout/view_media_play_new.xml #generated:7
+-keep class com.google.android.exoplayer2.ui.PlayerView { <init>(...); }
+
+# view res/layout/exo_simple_player_view.xml #generated:35
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(...); }
+
+# view res/layout/layout_media_player.xml #generated:9
+-keep class com.hamitao.framework.widgets.CustomVideoView { <init>(...); }
+
+# view res/layout/activity_wifi_conn.xml #generated:26
+-keep class com.hamitao.framework.widgets.LastInputEditText { <init>(...); }
+
+# view res/layout/activity_content_tree.xml #generated:17
+-keep class com.hamitao.framework.widgets.LoadingView { <init>(...); }
+
+# view res/layout/activity_album.xml #generated:6
+# view res/layout/activity_customer.xml #generated:6
+# view res/layout/activity_parents_app_download.xml #generated:10
+# view res/layout/activity_setting.xml #generated:38
+# view res/layout/item_alarm_view.xml #generated:29
+# view res/layout/item_contacts.xml #generated:16
+# view res/layout/item_content_tree.xml #generated:27
+# view res/layout/item_phone_book.xml #generated:6
+# view res/layout/item_wifi.xml #generated:18
+# view res/layout/layout_media_control.xml #generated:7
+# view res/layout/layout_title.xml #generated:6
+# view res/layout/view_controller.xml #generated:6
+# view res/layout/view_img_play.xml #generated:6
+-keep class com.hamitao.framework.widgets.MarqueTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.hamitao.kids.app.MyApp { <init>(...); }
+
+# view res/layout/activity_wake_up.xml #generated:6
+-keep class com.hamitao.kids.manager.MediaManager.EmojiView { <init>(...); }
+
+# view res/layout/activity_play.xml #generated:20
+-keep class com.hamitao.kids.manager.play.Controller { <init>(...); }
+
+# view res/layout/activity_play.xml #generated:14
+-keep class com.hamitao.kids.manager.play.ImgPlayer { <init>(...); }
+
+# view res/layout/activity_play.xml #generated:8
+-keep class com.hamitao.kids.manager.play.MediaPlayer { <init>(...); }
+
+# view res/layout/activity_play.xml #generated:26
+-keep class com.hamitao.kids.manager.play.RefreshView { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.hamitao.kids.receiver.MyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class com.hamitao.kids.receiver.PhoneReceiver { <init>(...); }
+
+# view res/layout/activity_chat.xml #generated:20
+-keep class com.hamitao.kids.record.AudioRecordButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.hamitao.kids.ui.activity.AlarmActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.hamitao.kids.ui.activity.AlbumActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.hamitao.kids.ui.activity.AlbumViewerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.hamitao.kids.ui.activity.CameraActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.hamitao.kids.ui.activity.ChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.hamitao.kids.ui.activity.ContactActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:174
+-keep class com.hamitao.kids.ui.activity.ContentTreeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.hamitao.kids.ui.activity.ContentTreeChildrenActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.hamitao.kids.ui.activity.EnglishStudyFollowMeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.hamitao.kids.ui.activity.EnglishStudyFollowMeListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.hamitao.kids.ui.activity.EnglishStudyTranslationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class com.hamitao.kids.ui.activity.FollowMeContentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.hamitao.kids.ui.activity.FuncActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.hamitao.kids.ui.activity.FuncThreeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.hamitao.kids.ui.activity.FuncTwoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.hamitao.kids.ui.activity.LocalBellsetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.hamitao.kids.ui.activity.LocalInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:196
+-keep class com.hamitao.kids.ui.activity.MachineBindingCodeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.hamitao.kids.ui.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:155
+-keep class com.hamitao.kids.ui.activity.NetConnActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class com.hamitao.kids.ui.activity.ParentsAppDownloadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:189
+-keep class com.hamitao.kids.ui.activity.PlayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.hamitao.kids.ui.activity.ScanBookActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.hamitao.kids.ui.activity.ScanConnActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class com.hamitao.kids.ui.activity.SessionListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.hamitao.kids.ui.activity.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.hamitao.kids.ui.activity.ShakeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.hamitao.kids.ui.activity.SystemControlActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:149
+-keep class com.hamitao.kids.ui.activity.TimeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.hamitao.kids.ui.activity.UsingWizardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.hamitao.kids.ui.activity.VideoChatP2PActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.hamitao.kids.ui.activity.WakeUpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.hamitao.kids.ui.activity.WelcomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.hamitao.kids.ui.activity.WifiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.hamitao.kids.ui.activity.WifiConnActivity { <init>(...); }
+
+# view res/layout/activity_using_wizard.xml #generated:19
+-keep class com.hamitao.kids.view.AutoTextView { <init>(...); }
+
+# view res/layout/view_power_show.xml #generated:6
+-keep class com.hamitao.kids.view.BatteryShowView { <init>(...); }
+
+# view res/layout/activity_setting.xml #generated:101
+# view res/layout/activity_setting.xml #generated:107
+# view res/layout/activity_setting.xml #generated:113
+# view res/layout/activity_setting.xml #generated:119
+# view res/layout/activity_setting.xml #generated:126
+# view res/layout/activity_setting.xml #generated:22
+# view res/layout/activity_setting.xml #generated:60
+# view res/layout/activity_setting.xml #generated:77
+# view res/layout/activity_setting.xml #generated:83
+# view res/layout/activity_setting.xml #generated:89
+# view res/layout/activity_setting.xml #generated:95
+-keep class com.hamitao.kids.view.CommonFuncLayout { <init>(...); }
+
+# view res/layout/layout_main_func.xml #generated:11
+-keep class com.hamitao.kids.view.DataTimeView { <init>(...); }
+
+# view res/layout/dialog_keyboard.xml #generated:8
+-keep class com.hamitao.kids.view.KeyboardView { <init>(...); }
+
+# view res/layout/layout_main_func.xml #generated:6
+-keep class com.hamitao.kids.view.StatusBarView { <init>(...); }
+
+# view res/layout/activity_album_viewer.xml #generated:7
+# view res/layout/activity_func.xml #generated:6
+# view res/layout/activity_func_follow_me_content.xml #generated:6
+-keep class com.hamitao.kids.view.ViewPagerCustomDuration { <init>(...); }
+
+# view res/layout/dialog_power_connect_view.xml #generated:23
+-keep class com.hamitao.kids.widgets.BatteryViewSelf { <init>(...); }
+
+# view res/layout/view_status_bar.xml #generated:69
+-keep class com.hamitao.kids.widgets.BatteryViewSelfMain { <init>(...); }
+
+# view res/layout/activity_alarm.xml #generated:8
+-keep class com.hamitao.kids.widgets.LeftSwipeMenuRecyclerView { <init>(...); }
+
+# view res/layout/activity_network_connect.xml #generated:55
+# view res/layout/activity_network_connect.xml #generated:61
+# view res/layout/activity_network_connect.xml #generated:67
+-keep class com.hamitao.kids.widgets.NetConnWayView { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.hamitao.kids.zxing.android.CaptureActivity { <init>(...); }
+
+# view res/layout/capture.xml #generated:13
+-keep class com.hamitao.kids.zxing.view.ViewfinderView { <init>(...); }
+
+# view res/layout/activity_welcome.xml #generated:8
+# view res/layout/layout_media_control.xml #generated:19
+# view res/layout/layout_media_control.xml #generated:25
+# view res/layout/view_face.xml #generated:8
+# view res/layout/view_img_play.xml #generated:19
+# view res/layout/view_media_emoji.xml #generated:14
+# view res/layout/view_media_emoji.xml #generated:8
+# view res/layout/view_receive_new_msg.xml #generated:7
+-keep class pl.droidsonroids.gif.GifImageView { <init>(...); }
+

@@ -1,0 +1,257 @@
+<resources>
+    <!--<string name="app_name">小淘同学</string>-->
+
+    <string name="main_func_study">学习</string>
+    <string name="main_func_intelligent_reading">智慧阅读</string>
+    <string name="main_func_entertainment">娱乐</string>
+    <string name="main_func_small_talk">聊天</string>
+    <string name="main_func_call_phone">打电话</string>
+    <string name="main_func_album">相册</string>
+    <string name="main_func_setting">设置</string>
+
+    <!--0、学习-->
+    <string name="func_poetry_recite">国学诗词</string>
+    <string name="func_english_study">英语学习</string>
+    <string name="func_safety_education">安全教育</string>
+
+    <string name="func_english_study_follow_me">跟我学</string>
+    <string name="func_english_study_translation">中译英</string>
+
+
+    <!--1、智慧阅读-->
+    <string name="func_country_learn">读绘本</string>
+    <string name="func_picture_book">扫绘本</string>
+
+    <!--2、娱乐-->
+
+    <string name="func_story">故事</string>
+    <string name="func_nursery_rhymes">儿歌</string>
+    <string name="func_picture_books">绘本</string>
+    <string name="func_anim">动画</string>
+
+    <!--3、微聊-->
+
+    <!--4、打电话-->
+    <string name="func_call_phone">拨号</string>
+    <string name="func_contacts">联系人</string>
+
+    <!--跟我学-->
+    <string name="func_know_animal">认识动物</string>
+    <string name="func_know_num">认识数字</string>
+    <string name="func_know_fruit">认识水果</string>
+
+    <!--认识动物-->
+    <string name="func_know_animal_dog">狗</string>
+    <string name="func_know_animal_monkey">猴子</string>
+    <string name="func_know_animal_fox">狐狸</string>
+    <string name="func_know_animal_tiger">老虎</string>
+    <string name="func_know_animal_horse">马</string>
+    <string name="func_know_animal_cat">猫咪</string>
+    <string name="func_know_animal_lion">狮子</string>
+    <string name="func_know_animal_panda">熊猫</string>
+    <string name="func_know_animal_duck">鸭子</string>
+    <string name="func_know_animal_fish">鱼</string>
+
+    <string name="func_know_animal_dog_e">dog</string>
+    <string name="func_know_animal_monkey_e">monkey</string>
+    <string name="func_know_animal_fox_e">fox</string>
+    <string name="func_know_animal_tiger_e">tiger</string>
+    <string name="func_know_animal_horse_e">horse</string>
+    <string name="func_know_animal_cat_e">cat</string>
+    <string name="func_know_animal_lion_e">lion</string>
+    <string name="func_know_animal_panda_e">panda</string>
+    <string name="func_know_animal_duck_e">duck</string>
+    <string name="func_know_animal_fish_e">fish</string>
+
+    <!--认识数字-->
+    <string name="func_know_num_zero">0</string>
+    <string name="func_know_num_one">1</string>
+    <string name="func_know_num_two">2</string>
+    <string name="func_know_num_three">3</string>
+    <string name="func_know_num_fore">4</string>
+    <string name="func_know_num_five">5</string>
+    <string name="func_know_num_six">6</string>
+    <string name="func_know_num_seven">7</string>
+    <string name="func_know_num_eight">8</string>
+    <string name="func_know_num_nine">9</string>
+    <string name="func_know_num_ten">10</string>
+
+    <string name="func_know_num_zero_e">zero</string>
+    <string name="func_know_num_one_e">one</string>
+    <string name="func_know_num_two_e">two</string>
+    <string name="func_know_num_three_e">three</string>
+    <string name="func_know_num_fore_e">fore</string>
+    <string name="func_know_num_five_e">five</string>
+    <string name="func_know_num_six_e">six</string>
+    <string name="func_know_num_seven_e">seven</string>
+    <string name="func_know_num_eight_e">eight</string>
+    <string name="func_know_num_nine_e">nine</string>
+    <string name="func_know_num_ten_e">ten</string>
+
+    <!--认识水果-->
+    <string name="func_know_fruit_strawberry">草莓</string>
+    <string name="func_know_fruit_orange">橙子</string>
+    <string name="func_know_fruit_mongo">芒果</string>
+    <string name="func_know_fruit_lemon">柠檬</string>
+    <string name="func_know_fruit_apple">苹果</string>
+    <string name="func_know_fruit_grapes">葡萄</string>
+    <string name="func_know_fruit_peach">桃子</string>
+    <string name="func_know_fruit_watermelon">西瓜</string>
+    <string name="func_know_fruit_banana">香蕉</string>
+    <string name="func_know_fruit_pear">雪梨</string>
+
+    <string name="func_know_fruit_strawberry_e">strawberry</string>
+    <string name="func_know_fruit_orange_e">orange</string>
+    <string name="func_know_fruit_mongo_e">mongo</string>
+    <string name="func_know_fruit_lemon_e">lemon</string>
+    <string name="func_know_fruit_apple_e">apple</string>
+    <string name="func_know_fruit_grapes_e">grapes</string>
+    <string name="func_know_fruit_peach_e">peach</string>
+    <string name="func_know_fruit_watermelon_e">watermelon</string>
+    <string name="func_know_fruit_banana_e">banana</string>
+    <string name="func_know_fruit_pear_e">pear</string>
+
+    <!--5、相册-->
+
+    <!--6、SOS-->
+
+    <!--7、设置-->
+    <string name="func_wifi_conn">wifi</string>
+    <string name="func_binding_wizard">绑定向导</string>
+    <string name="func_operating_video">使用向导</string>
+    <string name="func_bright_setting">亮度设置</string>
+    <string name="func_volume_setting">音量设置</string>
+    <string name="func_local_info">本机信息</string>
+    <string name="func_setting_time">时间</string>
+    <string name="func_setting_bellset">本地铃声</string>
+    <string name="func_setting_turn_off">关机</string>
+
+    <string name="func_setting_net_conn">连接网络</string>
+
+    <string name="stranger">陌生人</string>
+
+    <string name="hint_call_canceled">通话已取消</string>
+    <string name="hint_call_unanswered">对方未接听</string>
+    <string name="hint_call_hang_up">对方已挂断</string>
+    <string name="hint_line_busy">对方忙</string>
+    <string name="hint_video_chat_no_data">视频聊天数据获取失败</string>
+
+    <string name="up_for_cancel">手指上滑，取消发送</string>
+    <string name="want_to_cancle">松开手指，取消发送</string>
+    <string name="time_too_short">录音时间过短</string>
+    <string name="long_click_record">按住 说话</string>
+    <string name="hang_up_finsh">松开 结束</string>
+    <string name="release_cancel">松开 取消</string>
+
+    <string name="delect_success">删除成功</string>
+    <string name="tv_parents_app_download_hint">扫描二维码，下载手机App</string>
+    <string name="tv_binding_robot_hint">扫描二维码，绑定机器人</string>
+    <string name="tv_next"> 下一步</string>
+    <string name="tv_finish">完成</string>
+    <string name="tv_machine_binding_code">机器绑定码</string>
+    <string name="func_app_download">手机App下载</string>
+
+    <string name="connect">已连接</string>
+    <string name="refused_to">拒绝</string>
+    <string name="answer">接听</string>
+    <string name="hung_up">挂断</string>
+    <string name="refresh">刷新</string>
+
+    <!--tts提示-->
+    <string name="hint_no_data_refresh">哎呀~网络信号差，搜索不到内容，请求加强信号…</string>
+    <string name="hint_pause_play">那我就先暂停了哦</string>
+
+    <string name="hint_tts_new_unread">收到新消息哟</string>
+    <string name="hint_go_to_sleep">不理我，我要去休息了</string>
+    <string name="hint_do_not_poke_face">别戳我的小脸蛋呀！</string>
+    <string name="hint_do_not_poke_eyes">不要戳我的眼睛，我快晕了</string>
+    <string name="hint_more_than_video_playback_time">看太久了，请休息一下哦</string>
+
+    <string name="hint_aispeech_no_data">这个问题我还不会哦，我还在学习中</string>
+    <string name="hint_aispeech_no_seach_data">没有搜索到你想要的内容哦，我还在学习中</string>
+    <string name="hint_no_film_tel">我现在还没有播放电影的功能哦</string>
+
+    <string name="hint_already_first_data">已经是第一条内容了</string>
+    <string name="hint_already_complete">所有内容都已经播放完了</string>
+    <string name="hint_net_unconnect">无网络，请检查网络连接</string>
+    <string name="hint_no_net">无网络</string>
+
+    <string name="hint_no_media_play">已经没有内容了，无法继续播放哦</string>
+    <string name="hint_init_wait_for">正在初始化，请稍后……</string>
+    <string name="hint_no_answer">我没有听懂你的问题，请再说一次</string>
+
+    <string name="is_equal">等于</string>
+
+    <string name="calling_from_video">正在视频呼叫你…</string>
+    <string name="calling_from_voice">正在语音呼叫你…</string>
+
+    <string name="manufacturers">制造商：</string>
+    <string name="version_num">版本号：</string>
+    <string name="operating_system">操作系统：</string>
+
+    <string name="jinguowei">金国威电子通讯</string>
+    <!--<string name="hamitao">深圳市哈蜜淘科技有限公司</string>-->
+    <!--<string name="data">达闼科技（北京）有限公司</string>-->
+    <!--<string name="haier">青岛小帅智能科技股份有限公司</string>-->
+
+    <string name="hamitao">深圳市哈蜜淘科技有限公司</string>
+    <string name="hamitao_info">型号：Hmeet H3</string>
+
+    <string name="data">深圳达闼科技控股有限公司</string>
+    <string name="data_info">型号：Aimobile H3</string>
+
+    <string name="haier">青岛小帅智能科技股份有限公司</string>
+    <string name="haier_info">型号：XGR01</string>
+
+    <string name="scan_conn">扫码连接</string>
+    <string name="manual_conn">手动连接</string>
+    <string name="mobile_conn">移动网络</string>
+
+
+    <string name="connecting">连接中…</string>
+    <string name="power_low">电量低</string>
+
+    <string name="auto_data_time">自动日期和时间</string>
+    <string name="alarm">闹钟</string>
+    <string name="time">时间</string>
+
+    <string name="delect_sure">确定要删除</string>
+    <string name="selected_photos">所选照片吗？</string>
+    <string name="shake">摇一摇</string>
+    <string name="hold_down_talk">按住说话</string>
+    <string name="turn_off_sure">确定要关机吗?</string>
+
+    <string name="hold_down_speak_chinese">按住说中文</string>
+
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="close">关闭</string>
+    <string name="delect">删除</string>
+
+    <string name="cancelled">已取消</string>
+    <string name="refused">已拒绝</string>
+    <string name="duration">通话时长</string>
+
+    <string name="video">视频</string>
+    <string name="input_psw">输入密码</string>
+
+    <string name="psw">密码</string>
+    <string name="hint_no_use_mobile_net">移动网络不可用</string>
+    <string name="connected">正在连接……</string>
+    <string name="net">网络</string>
+    <string name="connect_success">连接成功</string>
+    <string name="connect_fail">连接失败</string>
+    <string name="please_later">请稍后……</string>
+    <string name="psd_mistake">密码错误</string>
+    <string name="func_setting_Wireless_Upgrade">无线升级</string>
+    <string name="fanyi">翻译</string>
+    <string name="mac_address">MAC地址：</string>
+    <string name="imei_num">IMEI号：</string>
+    <string name="device">设备</string>
+    <string name="skip">跳过</string>
+    <string name="no_sim_card">无SIM卡</string>
+    <string name="hint_psw_less_than_eight">密码不能少于八位</string>
+    <string name="ok_setting_voice">好的，已经为你调整了</string>
+
+
+</resources>

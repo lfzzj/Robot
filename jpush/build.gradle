@@ -1,0 +1,55 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+//        //极光推送
+//        manifestPlaceholders = [
+//                JPUSH_PKGNAME: "com.hamitao.kids",
+//                JPUSH_APPKEY : "2822915cb877d822d680a6e2", //JPush上注册的包名对应的appkey.
+//                JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+//        ]
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':RequestFrame')
+    //    compile files('libs/jcore-android-1.1.9.jar')
+    //    compile files('libs/jpush-android-3.1.1.jar')
+    //极光消息列表
+    compile 'cn.jiguang.imui:messagelist:0.7.2'
+    //    //极光推送
+    //    compile 'cn.jiguang.sdk:jpush:3.1.1'
+    //
+    //    //极光IM
+    //    compile 'cn.jiguang.sdk:jmessage:2.5.0'
+    //
+    //    //极光内核
+    //    compile 'cn.jiguang.sdk:jcore:1.1.9'
+    implementation files('libs/jcore-android-1.1.9.jar')
+    implementation files('libs/jmessage-android_v2.5.0.jar')
+    implementation files('libs/jpush-android-3.1.1.jar')
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+    <com.hamitao.framework.widgets.MarqueTextView
+        android:id="@+id/tv_title"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/text_size_6"
+        android:layout_marginRight="@dimen/text_size_6"
+        style="@style/text_style"
+        android:textColor="@color/common_color"
+        android:text="@string/main_func_album"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/text_size_25" />
+
+    <RelativeLayout
+        android:id="@+id/rl_photo_del"
+        android:layout_width="@dimen/text_size_40"
+        android:layout_height="@dimen/text_size_40"
+        android:clickable="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/text_size_2"
+        android:layout_marginLeft="@dimen/text_size_15"
+        android:layout_marginRight="@dimen/text_size_6">
+
+        <ImageView
+            android:id="@+id/iv_photo_del"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:background="@drawable/icon_photodelete"
+            />
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_album"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/text_size_10"
+        android:layout_marginTop="@dimen/text_size_40"
+        android:scrollbars="none" />
+
+
+    <Button
+        android:id="@+id/btn_photograph"
+        android:layout_width="@dimen/wh_camera_btn"
+        android:layout_height="@dimen/wh_camera_btn"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/text_size_6"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/icon_album_taking_pic" />
+
+
+</RelativeLayout>

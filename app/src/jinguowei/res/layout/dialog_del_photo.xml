@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_photo_shadow">
+
+
+    <RelativeLayout
+        android:layout_width="@dimen/text_size_220"
+        android:layout_height="@dimen/text_size_150"
+        android:layout_centerInParent="true"
+        android:background="@drawable/deletethebox_jgw">
+
+
+        <TextView
+            android:id="@+id/tv_hint"
+            android:layout_width="wrap_content"
+            android:textSize="@dimen/text_size_18"
+            android:textColor="@color/common_main_color"
+            android:layout_marginLeft="@dimen/text_size_60"
+            android:text="@string/delect_sure"
+            android:layout_marginTop="@dimen/text_size_40"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="@dimen/text_size_18"
+            android:textColor="@color/common_main_color"
+            android:layout_below="@+id/tv_hint"
+            android:layout_marginLeft="@dimen/text_size_60"
+            android:text="@string/selected_photos"
+            android:layout_marginTop="@dimen/text_size_6"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_photo_del_cancal"
+            android:layout_width="@dimen/text_size_110"
+            android:layout_height="@dimen/text_size_50"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/cancelbox_jgw"
+            android:text="@string/cancel"
+            android:textSize="@dimen/text_size_20"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btn_photo_del_comfirm"
+            android:layout_width="@dimen/text_size_110"
+            android:layout_height="@dimen/text_size_50"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/deletebox_jgw"
+            android:text="@string/delect"
+            android:textSize="@dimen/text_size_20"
+            android:textColor="@color/black" />
+    </RelativeLayout>
+
+</RelativeLayout>

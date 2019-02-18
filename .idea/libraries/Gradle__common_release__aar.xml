@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: common-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-release.aar/09d6305d51d5495018fbb43e4ff67f2a/jars/libs/hcicloud-5.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-release.aar/09d6305d51d5495018fbb43e4ff67f2a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-release.aar/09d6305d51d5495018fbb43e4ff67f2a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

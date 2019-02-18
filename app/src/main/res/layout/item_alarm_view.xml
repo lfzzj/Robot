@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/text_size_110">
+
+    <LinearLayout
+        android:id="@+id/llLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/text_size_6"
+        android:layout_marginTop="@dimen/text_size_10"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!--闹钟时间-->
+            <TextView
+                android:id="@+id/tv_alarm_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/text_size_10"
+                android:text="09:00"
+                android:textColor="@color/white"
+                android:textSize="30dp" />
+
+            <!--闹钟描述-->
+            <com.hamitao.framework.widgets.MarqueTextView
+                android:id="@+id/tv_alarm_desc"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_alarm_time"
+                android:layout_marginTop="@dimen/text_size_5"
+                android:text="起床"
+                android:singleLine="true"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:textColor="@color/white"
+                android:textSize="30dp" />
+
+            <!--闹钟开关-->
+            <ImageView
+                android:id="@+id/btn_switch_alarm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/text_size_10"
+                android:background="@drawable/icon_turn_off" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tvContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="content"
+            android:textColor="@color/white"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/tvDelete"
+            android:layout_width="@dimen/text_size_100"
+            android:layout_height="match_parent"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="@string/delect"
+            android:textColor="@color/white"
+            android:textSize="30dp" />
+
+
+    </LinearLayout>
+</RelativeLayout>

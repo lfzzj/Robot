@@ -1,0 +1,118 @@
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\6'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\0.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\1.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\2.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\3.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\4.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\5.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\7.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\8.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\9.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\10.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\11.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\12.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\13.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\14.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\15.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\16.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\17.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\18.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\19.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\20.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\21.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\22.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\23.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\24.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\25.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\26.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\27.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\28.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\29.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\30.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\31.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\32.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\33.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\34.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\35.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\36.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\37.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\38.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\39.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\40.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\41.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\42.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\43.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\44.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\45.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\46.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\47.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\48.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\49.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\50.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\51.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\52.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\53.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\54.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\55.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\56.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\57.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\58.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\59.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\60.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\61.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\62.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\63.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\64.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\65.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\66.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\67.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\68.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\69.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\70.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\71.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\72.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\73.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\74.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\75.jar'(**.class)
+-injars 'G:\project\Robot\app\build\intermediates\transforms\desugar\haier\debug\76.jar'(**.class)
+-outjars 'G:\project\Robot\app\build\intermediates\multi-dex\haier\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\27.0.0\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'G:\project\Robot\app\build\intermediates\multi-dex\haier\debug\components.flags'
+
+
+# view AndroidManifest.xml #generated:68
+-keep class com.hamitao.kids.app.MyApp {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

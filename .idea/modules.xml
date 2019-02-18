@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AISpeech/AISpeech.iml" filepath="$PROJECT_DIR$/AISpeech/AISpeech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtVideo/ExtVideo.iml" filepath="$PROJECT_DIR$/ExtVideo/ExtVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RequestFrame/RequestFrame.iml" filepath="$PROJECT_DIR$/RequestFrame/RequestFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot.iml" filepath="$PROJECT_DIR$/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livemulti/livemulti.iml" filepath="$PROJECT_DIR$/livemulti/livemulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p/p2p.iml" filepath="$PROJECT_DIR$/p2p/p2p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turing/turing.iml" filepath="$PROJECT_DIR$/turing/turing.iml" />
+    </modules>
+  </component>
+</project>
